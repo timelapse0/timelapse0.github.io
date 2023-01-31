@@ -1,3 +1,7 @@
+html{
+    font-size: 14px;/*@*/
+} 
+    
 /*全局基础样式*/
 /*小屏幕下(手机类)的样式*/
 @media only screen and (max-width: 601px) {
@@ -39,7 +43,6 @@ body {
     color: #34495e;
     overflow-x: hidden;
     overflow-y: auto;
-    font-size: 20px;/*@*/
 }
 
 h1 {
@@ -242,7 +245,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #86c6ff 0%, #1b2586 100%);
+    background-image: linear-gradient(to right, #72d3ff 0%, #26327c 200%);
 }
 
 @-webkit-keyframes rainbow {
@@ -883,7 +886,7 @@ article a {
 
 article a:hover {
     font-weight: bold;
-    color: #42b983;
+    color: #425c82;
     text-decoration: underline;
 }
 
@@ -1881,7 +1884,7 @@ footer .copy-right {
 
 .search-result-list .search-result-title {
     font-size: 1.4rem;
-    color: #42b983;
+    color: #335072;
 }
 
 .search-result-list li {
@@ -1911,12 +1914,13 @@ footer .copy-right {
 }
 
 .top-scroll .btn-floating {
-    background: linear-gradient(to bottom right, #FF5E3A 0%, #FF2A68 100%);
+    background: white;
     width: 48px;
     height: 48px;
 }
 
 .top-scroll .btn-floating i {
+    color:rgba(40, 49, 85,0.8);
     line-height: 48px;
     font-size: 1.8rem;
 }
