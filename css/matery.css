@@ -39,6 +39,7 @@ body {
     color: #34495e;
     overflow-x: hidden;
     overflow-y: auto;
+    font-size: 20px;/*@*/
 }
 
 h1 {
@@ -241,7 +242,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #8be8ec 0%, #32375d 100%);
+    background-image: linear-gradient(to right, #86c6ff 0%, #1b2586 100%);
 }
 
 @-webkit-keyframes rainbow {
@@ -252,7 +253,7 @@ mark {
      /* 动态切换背景颜色. */
  }
 .text-color {
-    color: #0f9d58 !important;
+    color: #2f435e !important;
 }
 
 .white-color {
@@ -264,7 +265,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background: linear-gradient(to right, #2affe6 0%, hsl(196, 96%, 64%) 100%);
     opacity: 0.8;
 }
 
