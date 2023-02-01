@@ -245,16 +245,11 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #72d3ff 0%, #26327c 200%);
+    background-image: linear-gradient(to right, #6bd0ff 0%, #00117d 240%);
 }
 
-@-webkit-keyframes rainbow {
-    /* 动态切换背景颜色. */
- }
+
  
- @keyframes rainbow {
-     /* 动态切换背景颜色. */
- }
 .text-color {
     color: #2f435e !important;
 }
@@ -562,8 +557,8 @@ header .go-back i {
 }
 
 .bg-cover:after {
-    -webkit-animation: rainbow 60s infinite;
-    animation: rainbow 60s infinite;
+    -webkit-animation: none; /*rainbow 60s infinite*/
+    animation: none; /*rainbow 60s infinite*/
 }
 
 .bg-cover:before,
@@ -1185,9 +1180,9 @@ article .article-tags .chip {
 
 #articleContent a {
     padding: 0 2px;
-    color: #42b983;
+    color: #4682B4;
     font-weight: 500;
-    text-decoration: underline;
+    text-decoration: none;
     word-wrap: break-word;
 }
 
