@@ -10,5 +10,9 @@
     }
     
 .github-corner path{
-    color:rgb(65, 99, 146)
+    color:
+}
+#lg-share{
+    /*lightgallery的分享按钮，咱也用不了，删了删了*/
+    display: none;
 }

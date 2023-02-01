@@ -1,5 +1,5 @@
 html{
-    font-size: 18px;/*@*/
+    font-size: 20px;/*@*/
 } 
     
 /*全局基础样式*/
@@ -1348,7 +1348,7 @@ thead {
     height: 80px;
     margin: 10px 0 50px -20px;
     padding: 21px 10px;
-    background-color: #ff5722;
+    background-color: #87fbff;
     color: #fff;
     font-size: 1.8rem;
     font-weight: 600;
@@ -1364,7 +1364,7 @@ thead {
     height: 60px;
     margin: 10px 0 30px -10px;
     padding: 14px 16px;
-    background-color: #ef6c00;
+    background-color: #28edff;
     color: #fff;
     font-size: 1.7rem;
     font-weight: 600;
@@ -1377,7 +1377,7 @@ thead {
 #cd-timeline .day {
     position: relative;
     padding: 8px 10px;
-    background-color: #ffa726;
+    background-color: #1ec6e4;
     color: #fff;
     font-size: 1.2rem;
     font-weight: 500;
@@ -1398,8 +1398,8 @@ thead {
     top: 0;
     left: 18px;
     height: 100%;
-    width: 4px;
-    background: #0f9d58;
+    width: 3.6px;
+    background: #d3efea;
 }
 
 @media only screen and (min-width: 900px) {
@@ -1519,7 +1519,7 @@ thead {
     width: 14px;
     margin-left: 2px;
     margin-right: 2px;
-    border: 1px dashed #ffa726;
+    border: 1px dashed #b0ffea;
 }
 
 @media only screen and (min-width: 768px) {
@@ -1562,7 +1562,7 @@ thead {
         top: 24px;
         left: auto;
         right: 100%;
-        border-color: #ffa726;
+        border-color: #65e0ff;
     }
 
     .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {
@@ -1858,15 +1858,23 @@ footer .copy-right {
 }
 
 #searchModal {
-    background-color: rgba(255, 255, 255, .8);
-    min-height: 500px;
+    background-color: rgba(0, 0, 0, .7);
+    min-height: 600px;
     width: 80%;
+    max-width:800px;
 }
 
 #searchModal .search-header .title {
     font-size: 1.6rem;
-    color: #333;
+    color: #0f9d58;
 }
+
+    #searchInput{
+        color: #2d7c8a;
+    }
+    #searchInput:hover{
+        box-shadow: rgba(48, 255, 255, 0.3) 3px 4px 10px 2px;
+    }
 
 #searchResult {
     margin: -15px 0 10px 10px;
@@ -1875,16 +1883,15 @@ footer .copy-right {
 #searchResult .search-result-list {
     margin-left: -8px;
     padding-left: 0;
-    color: #666;
+    color: #29ac7a;
 }
 
 .search-result-list .search-result-title {
-    font-size: 1.4rem;
-    color: #335072;
+    font-size: 1.2rem;
+    color: #75ffbc;
 }
 
 .search-result-list li {
-    border-bottom: 1px solid #e5e5e5;
     padding: 15px 0 5px 0;
 }
 
@@ -1892,9 +1899,8 @@ footer .copy-right {
     margin: 0 2px;
     padding: 1px 5px 1px 4px;
     border-radius: 2px;
-    background-color: #f2f2f2;
-    color: #e96900;
-    font-style: normal;
+    color: #d9eef3;
+    font-style: bold;
     white-space: pre-wrap;
 }
 
