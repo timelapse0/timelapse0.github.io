@@ -1,5 +1,5 @@
 html{
-    font-size: 14px;/*@*/
+    font-size: 18px;/*@*/
 } 
     
 /*全局基础样式*/
@@ -1858,6 +1858,7 @@ footer .copy-right {
 }
 
 #searchModal {
+    background-color: rgba(255, 255, 255, .8);
     min-height: 500px;
     width: 80%;
 }
