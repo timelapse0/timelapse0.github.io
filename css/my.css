@@ -1,18 +1,119 @@
 /* Here is your custom css styles. */
 *{
-    -moz-user-select: none; 
+    /*-moz-user-select: none; 
     -webkit-user-select: none;  
     -ms-user-select: none;      
     -khtml-user-select: none;  
-    user-select: none;   
+    user-select: none;  */ 
     -webkit-tap-highlight-color:transparent;
     outline:none;
-    }
-    
-.github-corner path{
-    color:
 }
+html{
+    font-size: 22px;/*@*/
+} 
+::-webkit-scrollbar{
+    width: 10px;
+    background:transparent;
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 9px;
+    background-color:rgba(80, 184, 202, 0.9);
+}
+::-webkit-scrollbar-thumb:hover{
+    background:rgb(22, 220, 250);
+}
+::-webkit-scrollbar-corner{
+    background:transparent;
+}
+
+:-moz-scrollbar{
+    background:transparent;
+}
+:-moz-webkit-scrollbar-thumb{
+    border-radius: 9px;
+    background-color:rgba(80, 184, 202, 0.9);
+}
+:-moz-scrollbar-thumb:hover{
+    background:rgb(22, 220, 250);
+}
+:-moz-scrollbar-corner{
+    background:transparent;
+}
+
+pre{
+    background:#2d2d2d;
+    overflow:auto;
+}
+code{
+    padding:0.2rem 0.3rem;
+    border-radius: 5px;
+}
+
+    /*卡片链接-无图*/
+    .link-card{
+        display:flex;
+        flex-direction:column;
+        border-radius:10px;
+        background:rgba(0,0,0,0.05);
+        margin:50px;
+        padding:0 2rem;
+        height:fit-content;
+        min-height:160px;
+    }
+    .link-card>a{
+        color:#6C7B8B !important;
+        margin:auto;
+    }
+    code .link-card{
+        display:inline !important;
+    }
+    .link-card:hover a{
+        color:#000 !important;
+        text-decoration:underline !important;
+        transition:0.3s;
+    }
+    /*卡片链接-有图*/
+    .link-card .img-item{
+        padding:0;
+        margin:0px -50px 0 -50px;
+        border-radius:10px;
+        box-shadow:rgba(0,0,0,0.3) 5px 5px 8px 1px;
+    }
+    .link-card img{
+        display:inline-block;
+        width:100%;
+        height:200px !important;
+        padding:0;
+        margin:0px 0px -10px 0;
+        object-fit:cover;
+        border-radius:10px 10px 0 0;
+        box-shadow:none;
+    }
+    .link-card div.caption{
+        display:flex;
+        border-radius:10px;
+        height:80px;
+        margin:0px;
+        background:rgba(255,255,255,1);
+        }
+    .link-card div.caption .center-caption{
+        font-weight:540;  
+        padding-left:1rem;
+        text-align:left;
+        word-break:break-all;
+        }
+    .link-card p{
+        display:none;
+        }
+    .link-card:hover b{
+        color:#000 !important;
+        text-decoration:underline !important;
+        transition:0.3s;
+    }
+
+    
 #lg-share{
     /*lightgallery的分享按钮，咱也用不了，删了删了*/
     display: none;
 }
+

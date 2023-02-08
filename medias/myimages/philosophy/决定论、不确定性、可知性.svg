@@ -1,0 +1,18 @@
+<svg width="599" height="385" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#fff" id="svg_21" height="385" width="598.99994" y="0" x="0" stroke-width="0" fill="#f7f2f4"/>
+  <path stroke="#000" stroke-width="0" id="svg_1" d="m304.49998,322c-139.50275,0 -252.49998,-64.8895 -252.49998,-145c0,-80.1105 112.99723,-145 252.49998,-145c139.50275,0 252.49998,64.8895 252.49998,145c0,80.1105 -112.99723,145 -252.49998,145z" opacity="undefined" fill="#ffffff"/>
+  <path stroke="#000" stroke-width="0" id="svg_28" d="m306,314.99998c-135.9116,0 -246,-61.98066 -246,-138.49999c0,-76.51933 110.0884,-138.49999 246,-138.49999c135.91161,0 246.00001,61.98066 246.00001,138.49999c0,76.51933 -110.0884,138.49999 -246.00001,138.49999z" opacity="undefined" fill="#ceddff"/>
+  <path stroke-width="0" id="svg_2" d="m388.49999,245c-68.78453,0 -124.5,-34.01105 -124.5,-76c0,-41.98895 55.71547,-76 124.5,-76c68.78453,0 124.5,34.01105 124.5,76c0,41.98895 -55.71547,76 -124.5,76z" opacity="undefined" stroke="#000" fill="#bdedc5"/>
+  <path stroke-width="0" id="svg_3" d="m439.49999,216c-30.66298,0 -55.5,-19.01934 -55.5,-42.5c0,-23.48066 24.83702,-42.5 55.5,-42.5c30.66298,0 55.5,19.01934 55.5,42.5c0,23.48066 -24.83702,42.5 -55.5,42.5z" opacity="undefined" stroke="#000" fill="#e0d2b5"/>
+  <text stroke-opacity="0" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_6" y="343" x="30.99999" stroke="#000000" fill="#c9adb8">本体不确定</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="20" stroke-width="0" id="svg_7" y="182" x="418.99999" stroke="#000" fill="#ad8d70">全知</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_9" y="136" x="136.99999" stroke="#000" fill="#ffffff">决定论</text>
+  <text opacity="undefined" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="20" stroke-width="0" id="svg_11" y="153" x="305.99999" stroke="#000" fill="#56a562">确定</text>
+  <text opacity="undefined" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="20" id="svg_16" y="177" x="266.99999" stroke-width="0" stroke="#000" fill="#57a864">（认知确定）</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_18" y="165" x="117.99999" stroke-width="0" stroke="#fff" fill="#ffffff">(本体确定）</text>
+  <text stroke="#000" opacity="undefined" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="20" id="svg_19" y="233" x="125.99999" stroke-width="0" fill="#4868a8">认知不确定</text>
+ </g>
+</svg>
