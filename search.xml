@@ -588,25 +588,6 @@
     
     
     <entry>
-      <title>哲学之哲学</title>
-      <link href="/wonder/2023/02/08/myismism/"/>
-      <url>/wonder/2023/02/08/myismism/</url>
-      
-        <content type="html"><![CDATA[<p>如果有一种哲学能完全地说服我，那它就是一种成功的哲学。</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> myismism </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>事物的本质</title>
       <link href="/wonder/2023/02/08/nature-of-things/"/>
       <url>/wonder/2023/02/08/nature-of-things/</url>
@@ -622,6 +603,25 @@
             <tag> 量子态 </tag>
             
             <tag> 哥本哈根学派 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>哲学之哲学</title>
+      <link href="/wonder/2023/02/08/myismism/"/>
+      <url>/wonder/2023/02/08/myismism/</url>
+      
+        <content type="html"><![CDATA[<p>如果有一种哲学能完全地说服我，那它就是一种成功的哲学。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> myismism </tag>
             
         </tags>
       
@@ -736,6 +736,19 @@
     
     
     <entry>
+      <title>deep think</title>
+      <link href="/wonder/2023/02/08/think-think/"/>
+      <url>/wonder/2023/02/08/think-think/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>整整50年的深思熟虑并没有使我对“什么是光”有任何结果。当然，今天每个人都说他知道光子是什么,但这只不过是自欺欺人罢了。<br>by A.Einstein (1954)</p></blockquote>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>真理</title>
       <link href="/wonder/2023/02/08/truth/"/>
       <url>/wonder/2023/02/08/truth/</url>
@@ -768,19 +781,6 @@
             <tag> 珍珠系列 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>deep think</title>
-      <link href="/wonder/2023/02/08/think-think/"/>
-      <url>/wonder/2023/02/08/think-think/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>整整50年的深思熟虑并没有使我对“什么是光”有任何结果。当然，今天每个人都说他知道光子是什么,但这只不过是自欺欺人罢了。<br>by A.Einstein (1954)</p></blockquote>]]></content>
-      
-      
       
     </entry>
     
@@ -1324,19 +1324,6 @@
     
     
     <entry>
-      <title>哲学问题</title>
-      <link href="/wonder/2023/01/30/philosophy.md/problems/"/>
-      <url>/wonder/2023/01/30/philosophy.md/problems/</url>
-      
-        <content type="html"><![CDATA[<h3 id="质与量">质与量</h3><p>词云：</p><ul class="lvl-0"><li class="lvl-2"><p>矫枉过正</p></li><li class="lvl-2"><p>物极必反</p></li></ul><p>虽然说没有人能摆脱刻奇，但我相信，人类反刻奇的力度远远比不上原始的刻奇。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Loading 加载房</title>
       <link href="/wonder/2023/01/30/my/loading/"/>
       <url>/wonder/2023/01/30/my/loading/</url>
@@ -1349,6 +1336,19 @@
           <category> room </category>
           
       </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>哲学问题</title>
+      <link href="/wonder/2023/01/30/philosophy.md/problems/"/>
+      <url>/wonder/2023/01/30/philosophy.md/problems/</url>
+      
+        <content type="html"><![CDATA[<h3 id="质与量">质与量</h3><p>词云：</p><ul class="lvl-0"><li class="lvl-2"><p>矫枉过正</p></li><li class="lvl-2"><p>物极必反</p></li></ul><p>虽然说没有人能摆脱刻奇，但我相信，人类反刻奇的力度远远比不上原始的刻奇。</p>]]></content>
+      
       
       
     </entry>
