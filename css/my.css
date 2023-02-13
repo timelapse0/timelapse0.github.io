@@ -47,6 +47,43 @@ pre{
 code{
     padding:0.2rem 0.3rem;
     border-radius: 5px;
+    max-width: 100%;
+    word-wrap: break-word;
+}
+
+[type="checkbox"]:not(:checked), [type="checkbox"]:checked{
+    opacity: 1;
+    display: inline-block;
+    margin-left:0rem !important;
+    pointer-events: all;
+}
+
+label{
+    color:#444;
+}
+.tips {
+    padding-left: 10px;
+    background-color:rgba(52,152,219,.3);
+    border-left:4px solid rgb(52,152,219);
+    color: rgba(52,152,219,80%);
+}
+.success {
+    padding-left: 10px;
+    background-color:rgba(46,204,113,.3);
+    border-left:4px solid rgb(46,204,113);
+    color: rgba(46,204,113,80%);
+}
+.warning {
+    padding-left: 10px;
+    background-color:rgba(241,196,15,.3);
+    border-left:4px solid rgb(241,196,15);
+    color: rgba(241,196,15,80%);
+}
+.danger {
+    padding-left: 10px;
+    background-color:rgba(231,76,60,.3);
+    border-left:4px solid rgb(231,76,60);
+    color: rgb(231,76,60,80%);
 }
 
     /*卡片链接-无图*/
@@ -111,9 +148,14 @@ code{
         transition:0.3s;
     }
 
+
+
     
 #lg-share{
     /*lightgallery的分享按钮，咱也用不了，删了删了*/
     display: none;
 }
 
+#floating-toc-btn,#backTop{
+    left:15px !important;
+}

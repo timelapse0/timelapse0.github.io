@@ -442,8 +442,12 @@
                     
                     <div class="article-tag">
                         
-                            <a href="/wonder/tags/%E5%8D%A1%E7%89%87%E9%93%BE%E6%8E%A5%EF%BC%8C%E6%8F%92%E4%BB%B6/">
-                                <span class="chip bg-color">卡片链接，插件</span>
+                            <a href="/wonder/tags/%E5%8D%A1%E7%89%87%E9%93%BE%E6%8E%A5/">
+                                <span class="chip bg-color">卡片链接</span>
+                            </a>
+                        
+                            <a href="/wonder/tags/%E6%8F%92%E4%BB%B6/">
+                                <span class="chip bg-color">插件</span>
                             </a>
                         
                     </div>
@@ -465,14 +469,14 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2023-02-06
+                    2023-02-09
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    484
+                    480
                 </div>
                 
 
@@ -502,7 +506,8 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h1 id="卡片链接实现"><a href="#卡片链接实现" class="headerlink" title="卡片链接实现"></a>卡片链接实现</h1><p>一时兴起写了点实现卡片式链接的代码。。</p>
+                <h1>卡片链接实现</h1>
+<p>一时兴起写了点实现卡片式链接的代码。。</p>
 <p>仓库里的代码解释： <a href="https://mess20.github.io/2023/02/03/diy-linkcard">https://mess20.github.io/2023/02/03/diy-linkcard</a></p>
 <hr>
 <p>本人博客里的是利用主题CSS实现的。</p>
@@ -569,7 +574,6 @@
         transition:0.3s;
     }
 </css>
-
 <p>链接转带图的卡片需要JS：</p>
 <js>
 var html = $('#articleContent').html();
@@ -591,24 +595,41 @@ window.location.href=href;
 })
 },100)
 </js>
-
 <blockquote>
 <p>上面的代码显示得跟原文不一样，主要是 html 显示有问题。</p>
 </blockquote>
-<h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2><h3 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h3><p><code>![img.alt]()</code><br><code>&lt;img src=&#39;&#39; alt=&#39;&#39;&gt;</code></p>
-<h3 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h3><p><code>https://1234567.com</code><br><code>[a.des](a.url)</code></p>
-<h3 id="卡片链接（无图片）"><a href="#卡片链接（无图片）" class="headerlink" title="卡片链接（无图片）"></a>卡片链接（无图片）</h3><p><code>￥ ￥[a.des](a.url)￥ ￥</code></p>
-<h3 id="卡片链接（带图片）"><a href="#卡片链接（带图片）" class="headerlink" title="卡片链接（带图片）"></a>卡片链接（带图片）</h3><p><code>￥ ￥![a.url](img.src)￥ ￥</code></p>
+<h2 id="语法">语法</h2>
+<h3 id="图片">图片</h3>
+<p><code>![img.alt]()</code><br>
+<code>&lt;img src='' alt=''&gt;</code></p>
+<h3 id="链接">链接</h3>
+<p><code>https://1234567.com</code><br>
+<code>[a.des](a.url)</code></p>
+<h3 id="卡片链接（无图片）">卡片链接（无图片）</h3>
+<p><code>￥ ￥[a.des](a.url)￥ ￥</code></p>
+<h3 id="卡片链接（带图片）">卡片链接（带图片）</h3>
+<p><code>￥ ￥![a.url](img.src)￥ ￥</code></p>
 <blockquote>
 <p><code>￥ ￥</code>间有空格是为防止渲染，代码本身是没有的。</p>
 </blockquote>
-<h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><h3 id="卡片链接-无图"><a href="#卡片链接-无图" class="headerlink" title="卡片链接-无图"></a>卡片链接-无图</h3><p><code>￥ ￥[为什么知乎上通常用「」来代表引号，而不是规范的“”？ - 刘延的回答 - 知乎](https://www.zhihu.com/question/63624675/answer/1424881756)￥ ￥</code></p>
+<h2 id="示例">示例</h2>
+<h3 id="卡片链接-无图">卡片链接-无图</h3>
+<p><code>￥ ￥[为什么知乎上通常用「」来代表引号，而不是规范的“”？ - 刘延的回答 - 知乎](https://www.zhihu.com/question/63624675/answer/1424881756)￥ ￥</code></p>
 <p>￥￥<a target="_blank" rel="noopener" href="https://www.zhihu.com/question/63624675/answer/1424881756">为什么知乎上通常用「」来代表引号，而不是规范的“”？ - 刘延的回答 - 知乎</a>￥￥</p>
-<h3 id="卡片链接-有图"><a href="#卡片链接-有图" class="headerlink" title="卡片链接-有图"></a>卡片链接-有图</h3><p><code>￥ ￥![https://www.zhihu.com/question/63624675/answer/1424881756](https://s1.ax1x.com/2023/02/01/pSB4XT0.jpg)￥ ￥</code></p>
+<h3 id="卡片链接-有图">卡片链接-有图</h3>
+<p><code>￥ ￥![https://www.zhihu.com/question/63624675/answer/1424881756](https://s1.ax1x.com/2023/02/01/pSB4XT0.jpg)￥ ￥</code></p>
 <p>￥￥<img src="https://s1.ax1x.com/2023/02/01/pSB4XT0.jpg" alt="https://www.zhihu.com/question/63624675/answer/1424881756">￥￥</p>
 
                     
         <!--我滴-->
+        <!--mermaid，好像不行。。。-->
+        <script type="text/javascript" src='https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js'></script>
+        <script>
+        if (window.mermaid) {
+            mermaid.initialize({theme: 'forest'});
+        }
+        </script>
+
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/prism.min.js"></script>
         <script type="text/javascript" src="/wonder/js/my.js"></script>
         <script type="text/javascript" src="/wonder/js/link-card.js"></script>
@@ -619,37 +640,6 @@ window.location.href=href;
 
             
 
-    <div class="reprint" id="reprint-statement">
-        
-            <i class="fas fa-exclamation-circle"></i>
-            在法律允许的范围内，
-            <a href="https://mess20.github.io/wonder">
-                Juice233
-            </a>
-            已放弃此作品的所有版权、相关或相邻的权利
-            <a  href="/wonder/2023/02/02/link-card-about/">
-                《Link-card》
-            </a>
-            。此作品发布在：
-            <span property="vcard:Country" datatype="dct:ISO3166"
-                content="CN" about="/wonder/2023/02/02/link-card-about/">
-                中国大陆。
-            </span>
-            </p>
-        
-    </div>
-
-    <script async defer>
-      document.addEventListener("copy", function (e) {
-        let toastHTML = '<span>复制成功，请遵循本文的转载规则</span><button class="btn-flat toast-action" onclick="navToReprintStatement()" style="font-size: smaller">查看</a>';
-        M.toast({html: toastHTML})
-      });
-
-      function navToReprintStatement() {
-        $("html, body").animate({scrollTop: $("#reprint-statement").offset().top - 80}, 800);
-      }
-    </script>
-
 
 
             <div class="tag_share" style="display: block;">
@@ -657,8 +647,12 @@ window.location.href=href;
                     
                         <div class="article-tag">
                             
-                                <a href="/wonder/tags/%E5%8D%A1%E7%89%87%E9%93%BE%E6%8E%A5%EF%BC%8C%E6%8F%92%E4%BB%B6/">
-                                    <span class="chip bg-color">卡片链接，插件</span>
+                                <a href="/wonder/tags/%E5%8D%A1%E7%89%87%E9%93%BE%E6%8E%A5/">
+                                    <span class="chip bg-color">卡片链接</span>
+                                </a>
+                            
+                                <a href="/wonder/tags/%E6%8F%92%E4%BB%B6/">
+                                    <span class="chip bg-color">插件</span>
                                 </a>
                             
                         </div>
@@ -1880,7 +1874,9 @@ window.location.href=href;
                 <li><img alt='' src='/wonder/medias/myimages/xyy/l3.jpeg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/l4.jpeg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/m1.jpeg' loading="lazy"></li> 
+                <li><img alt='' src='/wonder/medias/myimages/xyy/m2.jpeg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/xhh1.jpeg' loading="lazy"></li> 
+                <li><img alt='' src='/wonder/medias/myimages/xyy/xhh2.jpeg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/n1.jpeg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/n2.jpg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/g1.gif' loading="lazy"></li> 
@@ -1918,7 +1914,8 @@ window.location.href=href;
                         <li><img alt='' src='/wonder/medias/myimages/hamham/7.jpg' loading="lazy"></li>
                         <li><img alt='' src='/wonder/medias/myimages/hamham/8.jpg' loading="lazy"></li>
                         <li><img alt='' src='/wonder/medias/myimages/hamham/9.jpg' loading="lazy"></li>      
-                        <li><img alt='' src='/wonder/medias/myimages/hamham/10.jpg' loading="lazy"></li>
+                        <li><img alt='' src='/wonder/medias/myimages/hamham/10.jpg' loading="lazy"></li>    
+                        <li><img alt='' src='/wonder/medias/myimages/hamham/11.jpg' loading="lazy"></li>
                         <li><img alt='' src='/wonder/medias/myimages/hamham/m1.jpg' loading="lazy"></li>
                         <li><img alt='' src='/wonder/medias/myimages/hamham/m2.jpg' loading="lazy"></li>
                         <li><img alt='' src='/wonder/medias/myimages/hamham/w1.jpg' loading="lazy"></li>      
@@ -2011,7 +2008,7 @@ window.location.href=href;
                                     <ul class='myemo-ul' id='myemo-ul-emoji-diy'>
                                         <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/1.jpeg' loading="lazy"></li>
                                         <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/2.jpg' loading="lazy"></li>
-                                        <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/3.jpg' loading="lazy"></li>
+                                        <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/3.png' loading="lazy"></li>
                                         <!--
                                         <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/4.jpg' loading="lazy"></li>
                                         <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/5.jpg' loading="lazy"></li>  
@@ -2185,7 +2182,9 @@ window.location.href=href;
     $('#veditor').bind('keyup',function(){
         
         var html = $('#veditor').val();
-        var html = html.replace('/ha',"<img src=\'/wonder/medias/myimages/Claire/a/a-huh.png\'>");
+        var html = html.replace('/ha',"<img alt=\'蛤？\' src=\'/wonder/medias/myimages/Claire/a/a-huh.png\'>")
+        .replace('/hj',"<img alt=\'滑稽\' src=\'/wonder/medias/myimages/Claire/fa/a/5.png\'>");
+        .replace('/wake-up',"<img alt=\'刚睡醒\' src=\'/wonder/medias/myimages/Claire/fa/a/7.png\'>");
         $('#veditor').val(html);
 
         var tempA = 0;
@@ -2214,7 +2213,7 @@ window.location.href=href;
 
         }
         //中文
-            var numbersString1 = "/飒,/激动,/闭眼,/星星眼,/蛤,/流口水,/流泪,/帅气,/熊猫脸,/狗猫,/问号脸";  
+            var numbersString1 = "/飒,/激动,/闭眼,/星星眼,/蛤,/流口水,/流泪,/帅气,/熊猫脸,/狗猫,/问号脸,";  
             var numbersArray1 = numbersString1.split(',');
         $.each(numbersArray1, function(index,value) { 
             var html = $('#veditor').val();
@@ -2230,7 +2229,7 @@ window.location.href=href;
             tempB = tempB+1;}
         })     
 
-        if(tempB == 11){  
+        if(tempB == 12){  
             $('#veditor').focus();
 
         }
@@ -2735,6 +2734,34 @@ $(function () {
     <script async src="/wonder/libs/others/busuanzi.pure.mini.js"></script>
     
 
+    
+        <script src="//code.tidio.co/my8obakxubo3klridof9kyp28h2e51pb.js"></script>
+        <script>
+            $(document).ready(function () {
+                setInterval(change_Tidio, 50);
+                function change_Tidio() {
+                    var tidio=$("#tidio-chat iframe");
+                    if(tidio.css("display")=="block"&& $(window).width()>977 ){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" &&$(window).width()>977)>0? "-40px" : ($("div.toc-title").length&&$(window).width()>977)>0?"85px":"20px";
+                        document.getElementById("tidio-chat-iframe").style.right="-15px";
+                        document.getElementById("tidio-chat-iframe").style.height=parseInt(tidio.css("height"))>=520?"520px":tidio.css("height");
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    else if(tidio.css("display")=="block"&&$(window).width()>601 &&$(window).width()<992 ){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" && 601< $(window).width()<992)>0? "-40px":"20px" ;
+                        document.getElementById("tidio-chat-iframe").style.right="-15px";
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    else if(tidio.css("display")=="block"&&$(window).width()<601 && parseInt(tidio.css("height"))<230){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" && $(window).width()<601)>0? "-10px":"45px" ;
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    if( tidio.css("display")=="block"&&$(window).width()<601 && parseInt(tidio.css("height"))>=230){
+                        document.getElementById("tidio-chat-iframe").style.zIndex="998";
+                    }
+                }
+            });
+        </script>
     
 
     

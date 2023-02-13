@@ -348,6 +348,16 @@
     </div>
 </div>
 
+
+
+
+<script>
+    //$('div.title').html(content);
+    //$('.description').html('?');
+</script>
+
+
+
 <main class="content">
 
     
@@ -362,10 +372,64 @@
                 
                 
                 
+                <a href="/wonder/categories/myWiki/" title="myWiki: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            style="background-color: #F9EBEA;">myWiki
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/wonder/categories/pearl/" title="pearl: 2">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            style="background-color: #F5EEF8;">pearl
+                        <span class="tag-length">2</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/wonder/categories/impressions/" title="impressions: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            style="background-color: #D5F5E3;">impressions
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/wonder/categories/life/" title="life: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            style="background-color: #E8F8F5;">life
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/wonder/categories/life/%E9%81%97%E8%BF%B9/" title="遗迹: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            style="background-color: #FEF9E7;">遗迹
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
                 <a href="/wonder/categories/bad-story/" title="bad story: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-active "
-                            style="background-color: #F9EBEA;">bad story
+                            style="background-color: #F8F9F9;">bad story
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/wonder/categories/room/" title="room: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            style="background-color: #82E0AA;">room
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -396,9 +460,10 @@
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
                             
-                                之前某段时间理想主义的，略中二病的，强迫症的，幻想症的。患得患失，极其怀旧。非常害怕既视感，极度不适。更害怕记忆中事物的消逝。
+                                之前某段时间
+理想主义的，略中二病的，强迫症的，幻想症的。患得患失，极其怀旧。**非常害怕既视感，**极度不适。更害怕记忆中事物的消逝。
 不断拾取，畏惧失去。
-喜欢一段时间只专注地干一件事。如果因某因素中止此件事情进展，心态将会崩盘，日常生活将变得极
+喜欢一段时间只专注地干一件事。如果因某因素中止此件事情进展，心态将会崩盘，日常生
                             
                         </div>
                         <div class="publish-info">
@@ -693,6 +758,34 @@ $(function () {
     <script async src="/wonder/libs/others/busuanzi.pure.mini.js"></script>
     
 
+    
+        <script src="//code.tidio.co/my8obakxubo3klridof9kyp28h2e51pb.js"></script>
+        <script>
+            $(document).ready(function () {
+                setInterval(change_Tidio, 50);
+                function change_Tidio() {
+                    var tidio=$("#tidio-chat iframe");
+                    if(tidio.css("display")=="block"&& $(window).width()>977 ){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" &&$(window).width()>977)>0? "-40px" : ($("div.toc-title").length&&$(window).width()>977)>0?"85px":"20px";
+                        document.getElementById("tidio-chat-iframe").style.right="-15px";
+                        document.getElementById("tidio-chat-iframe").style.height=parseInt(tidio.css("height"))>=520?"520px":tidio.css("height");
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    else if(tidio.css("display")=="block"&&$(window).width()>601 &&$(window).width()<992 ){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" && 601< $(window).width()<992)>0? "-40px":"20px" ;
+                        document.getElementById("tidio-chat-iframe").style.right="-15px";
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    else if(tidio.css("display")=="block"&&$(window).width()<601 && parseInt(tidio.css("height"))<230){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" && $(window).width()<601)>0? "-10px":"45px" ;
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    if( tidio.css("display")=="block"&&$(window).width()<601 && parseInt(tidio.css("height"))>=230){
+                        document.getElementById("tidio-chat-iframe").style.zIndex="998";
+                    }
+                }
+            });
+        </script>
     
 
     

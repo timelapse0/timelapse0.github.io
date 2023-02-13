@@ -472,7 +472,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    269
+                    295
                 </div>
                 
 
@@ -502,7 +502,14 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h4 id="随机生成一个颜色（HEX）"><a href="#随机生成一个颜色（HEX）" class="headerlink" title="随机生成一个颜色（HEX）"></a>随机生成一个颜色（HEX）</h4><js>
+                <h2 id="repository">repository</h2>
+<pre class="line-numbers language-none"><code class="language-none">var numbersString &#x3D; &quot;1,2,3,4,5,6&quot;;
+var numbersArray &#x3D; numbersString.split(&#39;,&#39;);
+$.each(numbersArray, function(index, value) &#123; 
+
+&#125;)<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<h4 id="随机生成一个颜色（HEX）">随机生成一个颜色（HEX）</h4>
+<js>
     //$('').each(function(){
     var n = Math.round(Math.random()*(48-1)+1);
     if(n==1){c='FA8072'};
@@ -560,6 +567,14 @@
 </js>
                     
         <!--我滴-->
+        <!--mermaid，好像不行。。。-->
+        <script type="text/javascript" src='https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js'></script>
+        <script>
+        if (window.mermaid) {
+            mermaid.initialize({theme: 'forest'});
+        }
+        </script>
+
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/prism.min.js"></script>
         <script type="text/javascript" src="/wonder/js/my.js"></script>
         <script type="text/javascript" src="/wonder/js/link-card.js"></script>
@@ -569,37 +584,6 @@
             <hr/>
 
             
-
-    <div class="reprint" id="reprint-statement">
-        
-            <i class="fas fa-exclamation-circle"></i>
-            在法律允许的范围内，
-            <a href="https://mess20.github.io/wonder">
-                Juice233
-            </a>
-            已放弃此作品的所有版权、相关或相邻的权利
-            <a  href="/wonder/2023/02/08/script/">
-                《脚本》
-            </a>
-            。此作品发布在：
-            <span property="vcard:Country" datatype="dct:ISO3166"
-                content="CN" about="/wonder/2023/02/08/script/">
-                中国大陆。
-            </span>
-            </p>
-        
-    </div>
-
-    <script async defer>
-      document.addEventListener("copy", function (e) {
-        let toastHTML = '<span>复制成功，请遵循本文的转载规则</span><button class="btn-flat toast-action" onclick="navToReprintStatement()" style="font-size: smaller">查看</a>';
-        M.toast({html: toastHTML})
-      });
-
-      function navToReprintStatement() {
-        $("html, body").animate({scrollTop: $("#reprint-statement").offset().top - 80}, 800);
-      }
-    </script>
 
 
 
@@ -1831,7 +1815,9 @@
                 <li><img alt='' src='/wonder/medias/myimages/xyy/l3.jpeg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/l4.jpeg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/m1.jpeg' loading="lazy"></li> 
+                <li><img alt='' src='/wonder/medias/myimages/xyy/m2.jpeg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/xhh1.jpeg' loading="lazy"></li> 
+                <li><img alt='' src='/wonder/medias/myimages/xyy/xhh2.jpeg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/n1.jpeg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/n2.jpg' loading="lazy"></li> 
                 <li><img alt='' src='/wonder/medias/myimages/xyy/g1.gif' loading="lazy"></li> 
@@ -1869,7 +1855,8 @@
                         <li><img alt='' src='/wonder/medias/myimages/hamham/7.jpg' loading="lazy"></li>
                         <li><img alt='' src='/wonder/medias/myimages/hamham/8.jpg' loading="lazy"></li>
                         <li><img alt='' src='/wonder/medias/myimages/hamham/9.jpg' loading="lazy"></li>      
-                        <li><img alt='' src='/wonder/medias/myimages/hamham/10.jpg' loading="lazy"></li>
+                        <li><img alt='' src='/wonder/medias/myimages/hamham/10.jpg' loading="lazy"></li>    
+                        <li><img alt='' src='/wonder/medias/myimages/hamham/11.jpg' loading="lazy"></li>
                         <li><img alt='' src='/wonder/medias/myimages/hamham/m1.jpg' loading="lazy"></li>
                         <li><img alt='' src='/wonder/medias/myimages/hamham/m2.jpg' loading="lazy"></li>
                         <li><img alt='' src='/wonder/medias/myimages/hamham/w1.jpg' loading="lazy"></li>      
@@ -1962,7 +1949,7 @@
                                     <ul class='myemo-ul' id='myemo-ul-emoji-diy'>
                                         <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/1.jpeg' loading="lazy"></li>
                                         <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/2.jpg' loading="lazy"></li>
-                                        <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/3.jpg' loading="lazy"></li>
+                                        <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/3.png' loading="lazy"></li>
                                         <!--
                                         <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/4.jpg' loading="lazy"></li>
                                         <li><img alt='' src='/wonder/medias/myimages/小黄脸变体/5.jpg' loading="lazy"></li>  
@@ -2136,7 +2123,9 @@
     $('#veditor').bind('keyup',function(){
         
         var html = $('#veditor').val();
-        var html = html.replace('/ha',"<img src=\'/wonder/medias/myimages/Claire/a/a-huh.png\'>");
+        var html = html.replace('/ha',"<img alt=\'蛤？\' src=\'/wonder/medias/myimages/Claire/a/a-huh.png\'>")
+        .replace('/hj',"<img alt=\'滑稽\' src=\'/wonder/medias/myimages/Claire/fa/a/5.png\'>");
+        .replace('/wake-up',"<img alt=\'刚睡醒\' src=\'/wonder/medias/myimages/Claire/fa/a/7.png\'>");
         $('#veditor').val(html);
 
         var tempA = 0;
@@ -2165,7 +2154,7 @@
 
         }
         //中文
-            var numbersString1 = "/飒,/激动,/闭眼,/星星眼,/蛤,/流口水,/流泪,/帅气,/熊猫脸,/狗猫,/问号脸";  
+            var numbersString1 = "/飒,/激动,/闭眼,/星星眼,/蛤,/流口水,/流泪,/帅气,/熊猫脸,/狗猫,/问号脸,";  
             var numbersArray1 = numbersString1.split(',');
         $.each(numbersArray1, function(index,value) { 
             var html = $('#veditor').val();
@@ -2181,7 +2170,7 @@
             tempB = tempB+1;}
         })     
 
-        if(tempB == 11){  
+        if(tempB == 12){  
             $('#veditor').focus();
 
         }
@@ -2203,18 +2192,17 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="far fa-dot-circle"></i>&nbsp;本篇
-            </div>
+                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/wonder/2023/02/08/script/">
+                <a href="/wonder/2023/02/08/scientific-theory/">
                     <div class="card-image">
                         
                         
-                        <img src="/wonder/medias/featureimages/3.jpeg" class="responsive-img" alt="脚本">
+                        <img src="/wonder/medias/featureimages/0.jpeg" class="responsive-img" alt="科学理论的本质或使命">
                         
-                        <span class="card-title">脚本</span>
+                        <span class="card-title">科学理论的本质或使命</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -2224,9 +2212,9 @@
                         
                     </div>
                     <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2023-02-08
-                            </span>
+                        <span class="publish-date">
+                            <i class="far fa-clock fa-fw icon-date"></i>2023-02-08
+                        </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-user fa-fw"></i>
@@ -2235,12 +2223,15 @@
                         </span>
                     </div>
                 </div>
-
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/wonder/tags/javasript/">
-                        <span class="chip bg-color">javasript</span>
+                    <a href="/wonder/tags/%E7%A7%91%E5%AD%A6%E7%90%86%E8%AE%BA/">
+                        <span class="chip bg-color">科学理论</span>
+                    </a>
+                    
+                    <a href="/wonder/tags/%E7%A7%91%E5%AD%A6%E5%BB%BA%E6%A8%A1/">
+                        <span class="chip bg-color">科学建模</span>
                     </a>
                     
                 </div>
@@ -2254,13 +2245,13 @@
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/wonder/2023/02/07/light/">
+                <a href="/wonder/2023/02/08/ten-crime/">
                     <div class="card-image">
                         
                         
-                        <img src="/wonder/medias/featureimages/5.jpeg" class="responsive-img" alt="光">
+                        <img src="/wonder/medias/featureimages/6.jpeg" class="responsive-img" alt="十宗罪">
                         
-                        <span class="card-title">光</span>
+                        <span class="card-title">十宗罪</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -2271,7 +2262,7 @@
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2023-02-07
+                                <i class="far fa-clock fa-fw icon-date"></i>2023-02-08
                             </span>
                         <span class="publish-author">
                             
@@ -2676,6 +2667,34 @@ $(function () {
     <script async src="/wonder/libs/others/busuanzi.pure.mini.js"></script>
     
 
+    
+        <script src="//code.tidio.co/my8obakxubo3klridof9kyp28h2e51pb.js"></script>
+        <script>
+            $(document).ready(function () {
+                setInterval(change_Tidio, 50);
+                function change_Tidio() {
+                    var tidio=$("#tidio-chat iframe");
+                    if(tidio.css("display")=="block"&& $(window).width()>977 ){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" &&$(window).width()>977)>0? "-40px" : ($("div.toc-title").length&&$(window).width()>977)>0?"85px":"20px";
+                        document.getElementById("tidio-chat-iframe").style.right="-15px";
+                        document.getElementById("tidio-chat-iframe").style.height=parseInt(tidio.css("height"))>=520?"520px":tidio.css("height");
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    else if(tidio.css("display")=="block"&&$(window).width()>601 &&$(window).width()<992 ){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" && 601< $(window).width()<992)>0? "-40px":"20px" ;
+                        document.getElementById("tidio-chat-iframe").style.right="-15px";
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    else if(tidio.css("display")=="block"&&$(window).width()<601 && parseInt(tidio.css("height"))<230){
+                        document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" && $(window).width()<601)>0? "-10px":"45px" ;
+                        document.getElementById("tidio-chat-iframe").style.zIndex="997";
+                    }
+                    if( tidio.css("display")=="block"&&$(window).width()<601 && parseInt(tidio.css("height"))>=230){
+                        document.getElementById("tidio-chat-iframe").style.zIndex="998";
+                    }
+                }
+            });
+        </script>
     
 
     
