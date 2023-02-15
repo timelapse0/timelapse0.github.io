@@ -330,7 +330,18 @@
 
             <div class="description center-align">
                 
-                    路漫漫其修远兮，吾将上下而求索。
+                <span id="subtitle"></span>
+                <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+                <script>
+                    var typed = new Typed("#subtitle", {
+                        strings: ['即使身处阴沟，也别忘了仰望星空！',''],
+                        startDelay: 300,
+                        typeSpeed: 100,
+                        loop: true,
+                        backSpeed: 50,
+                        showCursor: true
+                    });
+                </script>
                 
             </div>
         </div>
@@ -426,6 +437,15 @@
                 </a>
                 
                 
+                <a href="/wonder/categories/%E8%B5%84%E6%BA%90/" title="资源: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            style="background-color: #D7BDE2;">资源
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
             </div>
         </div>
     </div>
@@ -468,7 +488,7 @@
                     color: '#3C4858'
                 }
             },
-            indicator: [{"name":"myWiki","max":3},{"name":"pearl","max":3},{"name":"impressions","max":3},{"name":"life","max":3},{"name":"遗迹","max":3},{"name":"bad story","max":3},{"name":"room","max":3}],
+            indicator: [{"name":"myWiki","max":3},{"name":"pearl","max":3},{"name":"impressions","max":3},{"name":"life","max":3},{"name":"遗迹","max":3},{"name":"bad story","max":3},{"name":"room","max":3},{"name":"资源","max":3}],
             nameGap: 5,
             center: ['50%','55%'],
             radius: '66%'
@@ -479,7 +499,7 @@
             itemStyle: {normal: {areaStyle: {type: 'default'}}},
             data : [
                 {
-                    value : [1,2,1,1,1,1,1],
+                    value : [1,2,1,1,1,1,1,1],
                     name : '文章分类数量'
                 }
             ]

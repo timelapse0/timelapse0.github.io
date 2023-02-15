@@ -17,6 +17,97 @@
     
     
     <entry>
+      <title></title>
+      <link href="/wonder/2023/02/13/wonder/science/"/>
+      <url>/wonder/2023/02/13/wonder/science/</url>
+      
+        <content type="html"><![CDATA[<p>science（—knowledge）：数学 + 实证</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/wonder/2023/02/13/wonder/topic/"/>
+      <url>/wonder/2023/02/13/wonder/topic/</url>
+      
+        <content type="html"><![CDATA[<h3 id="热点话题">热点话题</h3><p>禁鲜令</p><h3 id="简单的问题">简单的问题</h3><ul class="lvl-0"><li class="lvl-2"><p><input type="checkbox" id="checkbox0"><label for="checkbox0">separate vit词性？</label></p></li></ul><h4 id="热点">热点</h4><ul class="lvl-0"><li class="lvl-2"><p><input type="checkbox" id="checkbox1"><label for="checkbox1">智商税</label></p></li><li class="lvl-2"><p><input type="checkbox" id="checkbox2"><label for="checkbox2">历史总会重演 why</label></p></li></ul><h4 id="交织问题">交织问题</h4><ul class="lvl-0"><li class="lvl-2"><p><input type="checkbox" id="checkbox3"><label for="checkbox3">悲悯情怀</label></p></li></ul><h4 id="哲学">哲学</h4><ul class="lvl-0"><li class="lvl-2"><p><input type="checkbox" id="checkbox4"><label for="checkbox4">犬儒主义</label></p></li></ul><h4 id="文学">文学</h4><ul class="lvl-0"><li class="lvl-2"><p><input type="checkbox" id="checkbox5"><label for="checkbox5">「白日以这小小的地球的喧扰，淹没了整个宇宙的沉默。」请问泰戈尔的这句话是什么意思呢？ - 知乎 </label><a href="https://www.zhihu.com/question/543047152">https://www.zhihu.com/question/543047152</a></p></li><li class="lvl-2"><p><input type="checkbox" id="checkbox6"><label for="checkbox6">得姓”三句：不知辛氏得姓于何年，且听我详参“辛”字之义。</label></p></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/wonder/2023/02/13/character/analysis/"/>
+      <url>/wonder/2023/02/13/character/analysis/</url>
+      
+        <content type="html"><![CDATA[<p>【灵与肉】</p><p>肉的专一和灵的傲慢的混合</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/wonder/2023/02/13/physics/history/"/>
+      <url>/wonder/2023/02/13/physics/history/</url>
+      
+        <content type="html"><![CDATA[<p>物理的发展远没有到达瓶颈期，只有那些迸发智慧的日子已经一去不复返了。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/wonder/2023/02/13/learn/math/advanced-calculus/"/>
+      <url>/wonder/2023/02/13/learn/math/advanced-calculus/</url>
+      
+        <content type="html"><![CDATA[<p>数学分析</p><p>基本对象：定义在实数集的函数</p><p>x→∞，有极限的函数不一定是有界的。<br>x→∞，有极限的函数在x→∞时是有界变量。<br>x→∞，有极限（收敛）的数列一定是有界的。</p><h2 id="题集">题集</h2><p>证明  已知 ∀ x ∈ A，x ≤ a，则 sup A ≤ a.</p><p>（反证法）若 a ＜sup A，则 彐 x0 ∈ A，x0 &gt; a.<br>故假设不成立，sup A ≤ a.</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/wonder/2023/02/13/learn/math/index/"/>
+      <url>/wonder/2023/02/13/learn/math/index/</url>
+      
+        <content type="html"><![CDATA[<p>证/解 不打点</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/wonder/2023/02/13/learn/math/advanced-algebra/"/>
+      <url>/wonder/2023/02/13/learn/math/advanced-algebra/</url>
+      
+        <content type="html"><![CDATA[<p>高等代数</p><h4 id="高等代数与线性代数的关系">高等代数与线性代数的关系</h4><p>高等代数：线性代数线性性质：加，减，数乘</p><h2 id="琐碎的知识点">琐碎的知识点</h2><ul class="lvl-0"><li class="lvl-2"><p>常数多项式不讨论可不可约</p></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如上</title>
       <link href="/wonder/2023/02/13/ba-zi-tou-xiang-de-ren-shi-tian-shi/"/>
       <url>/wonder/2023/02/13/ba-zi-tou-xiang-de-ren-shi-tian-shi/</url>
@@ -520,25 +611,6 @@
     
     
     <entry>
-      <title>fontawesome 图标索引</title>
-      <link href="/wonder/2023/02/08/fontawesome/"/>
-      <url>/wonder/2023/02/08/fontawesome/</url>
-      
-        <content type="html"><![CDATA[<p><i class="fa fa-video-camera" aria-hidden="true"></i>显示有问题<br><i class="fa fa-user-secret" aria-hidden="true"></i></p><p><i class="fa fa-sign-in" aria-hidden="true"></i><br><i class="fa fa-sign-out" aria-hidden="true"></i><br><i class="fa fa-" aria-hidden="true"></i></p><p><i class="fa fa-adjust" aria-hidden="true"></i></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> source </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>自由意志</title>
       <link href="/wonder/2023/02/08/free-will/"/>
       <url>/wonder/2023/02/08/free-will/</url>
@@ -554,6 +626,25 @@
             <tag> 科学 </tag>
             
             <tag> 自由意志 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>fontawesome 图标索引</title>
+      <link href="/wonder/2023/02/08/fontawesome/"/>
+      <url>/wonder/2023/02/08/fontawesome/</url>
+      
+        <content type="html"><![CDATA[<p><i class="fa fa-video-camera" aria-hidden="true"></i>显示有问题<br><i class="fa fa-user-secret" aria-hidden="true"></i></p><p><i class="fa fa-sign-in" aria-hidden="true"></i><br><i class="fa fa-sign-out" aria-hidden="true"></i><br><i class="fa fa-" aria-hidden="true"></i></p><p><i class="fa fa-adjust" aria-hidden="true"></i></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> source </tag>
             
         </tags>
       
@@ -653,25 +744,6 @@
     
     
     <entry>
-      <title>概率</title>
-      <link href="/wonder/2023/02/08/probability/"/>
-      <url>/wonder/2023/02/08/probability/</url>
-      
-        <content type="html"><![CDATA[<p>资料：</p><ul class="lvl-0"><li class="lvl-2">量子世界中拉普拉斯之妖的重生 - 贾明子的文章 - 知乎<br><a href="https://zhuanlan.zhihu.com/p/55902617">https://zhuanlan.zhihu.com/p/55902617</a></li></ul>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 概率 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>psychological bias</title>
       <link href="/wonder/2023/02/08/psychological-bias/"/>
       <url>/wonder/2023/02/08/psychological-bias/</url>
@@ -683,6 +755,25 @@
         <tags>
             
             <tag> 心理学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>概率</title>
+      <link href="/wonder/2023/02/08/probability/"/>
+      <url>/wonder/2023/02/08/probability/</url>
+      
+        <content type="html"><![CDATA[<p>资料：</p><ul class="lvl-0"><li class="lvl-2">量子世界中拉普拉斯之妖的重生 - 贾明子的文章 - 知乎<br><a href="https://zhuanlan.zhihu.com/p/55902617">https://zhuanlan.zhihu.com/p/55902617</a></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 概率 </tag>
             
         </tags>
       
@@ -933,27 +1024,6 @@
     
     
     <entry>
-      <title>荒谬</title>
-      <link href="/wonder/2023/01/30/absurdism/"/>
-      <url>/wonder/2023/01/30/absurdism/</url>
-      
-        <content type="html"><![CDATA[<p><a href="https://www.zhihu.com/answer/2565813231">https://www.zhihu.com/answer/2565813231</a></p><p>（待更新）</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 存在主义 </tag>
-            
-            <tag> 存在 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>思想自由</title>
       <link href="/wonder/2023/01/30/freedom-of-thought/"/>
       <url>/wonder/2023/01/30/freedom-of-thought/</url>
@@ -967,6 +1037,27 @@
             <tag> 哲学 </tag>
             
             <tag> 组织理念 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>荒谬</title>
+      <link href="/wonder/2023/01/30/absurdism/"/>
+      <url>/wonder/2023/01/30/absurdism/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://www.zhihu.com/answer/2565813231">https://www.zhihu.com/answer/2565813231</a></p><p>（待更新）</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 存在主义 </tag>
+            
+            <tag> 存在 </tag>
             
         </tags>
       
@@ -1062,6 +1153,25 @@
     
     
     <entry>
+      <title>How to live No.2</title>
+      <link href="/wonder/2023/01/30/how-to-be-a-man/"/>
+      <url>/wonder/2023/01/30/how-to-be-a-man/</url>
+      
+        <content type="html"><![CDATA[<p>(caogao)</p><p>到底要做什么样的人</p><ul class="lvl-0"><li class="lvl-2"><p>平时是什么样的人（我希望我的行为是什么性质的）</p></li><li class="lvl-2"><p>过去对未来造成的影响（我希望我的行为会产生什么样的时间效应）</p></li></ul><p>短期效应长期效应</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 思考 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>乌合之众</title>
       <link href="/wonder/2023/01/30/group/"/>
       <url>/wonder/2023/01/30/group/</url>
@@ -1075,25 +1185,6 @@
             <tag> 群体 </tag>
             
             <tag> 大众心理 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>How to live No.2</title>
-      <link href="/wonder/2023/01/30/how-to-be-a-man/"/>
-      <url>/wonder/2023/01/30/how-to-be-a-man/</url>
-      
-        <content type="html"><![CDATA[<p>(caogao)</p><p>到底要做什么样的人</p><ul class="lvl-0"><li class="lvl-2"><p>平时是什么样的人（我希望我的行为是什么性质的）</p></li><li class="lvl-2"><p>过去对未来造成的影响（我希望我的行为会产生什么样的时间效应）</p></li></ul><p>短期效应长期效应</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 思考 </tag>
             
         </tags>
       
@@ -1182,7 +1273,7 @@
       <link href="/wonder/2023/01/30/random-thoughts/"/>
       <url>/wonder/2023/01/30/random-thoughts/</url>
       
-        <content type="html"><![CDATA[<p>青春的心灵永不为 停滞。 梦想的火焰</p><p>青春活泼的心，决不作悲哀的留滞。——冰心<br>–/</p><p>Fn+F12——win键锁定</p><p>即使身处阴沟，也别忘了仰望星空！</p><p>茶水常年无偿供应</p><p>早晨 朝黄昏时分 夕</p><p>“朝颜”，是 牵牛花 的别称，清晨花开，傍晚花谢，虽韶华易逝，但向阳而生。</p><p>夕颜即是 葫芦花，黄昏开花，凌晨花谢。</p><p>高糊 LD（低分辨率）</p><h2 id="Plan">Plan</h2><h3 id=""></h3><p>Emotion 😉<br>zhihuEmotion<br>TiebaEmotion</p><h3 id="杂话">杂话</h3><ul class="lvl-0"><li class="lvl-2"><p>mermaid 是不是先被 markdown-it 渲染了不能显示啊啊，可恶啊</p></li></ul><p>yml 配置信息</p><pre class="line-numbers language-yaml" data-language="yaml"><code class="language-yaml"><span class="token key atrule">category_map</span><span class="token punctuation">:</span>  <span class="token punctuation">-</span> <span class="token key atrule">工具集</span><span class="token punctuation">:</span> tools  <span class="token punctuation">-</span> <span class="token key atrule">技术集</span><span class="token punctuation">:</span> technique<span class="token key atrule">tag_map</span><span class="token punctuation">:</span>  <span class="token punctuation">-</span> <span class="token key atrule">JavaScript</span><span class="token punctuation">:</span> js  <span class="token punctuation">-</span> <span class="token key atrule">css</span><span class="token punctuation">:</span> css  <span class="token punctuation">-</span> <span class="token key atrule">html5</span><span class="token punctuation">:</span> html5<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="安利">安利</h3><p>独家披露/寒山潜龙</p><p>推荐 hexo 主题<br>butterfly <a href="https://butterfly.js.org/">https://butterfly.js.org/</a></p><h2 id="灵感">灵感</h2><p>春夏秋冬对应起承转合</p><h2 id="random-thoughts">random thoughts</h2><p>B0106 后门通向哪里？ 这可能是整个学院最能引起我兴趣的事。</p><p>我好像突然明白了什么，好像用手机而不是电脑记录是导致信息膨胀的罪魁祸首。</p><p>我感觉电脑端和手机端很不一样，电脑端的内容放到手机仅仅是适应可以不单独写css要好看就要大改.</p><p>css加过渡，可能跟动漫加帧数异曲同工→_→</p><p>粗线条图标更好看(º﹃º )</p><p><a href="https://cloudsavour.github.io/comments/demo">https://cloudsavour.github.io/comments/demo</a> 美好的静态页面留言板，可是需要github账号</p><h3 id="毫无意义的分析">毫无意义的分析</h3><p>认真务实乐观进取</p><p>我特别讨厌被迫承担他人错误造成的后果我发现我喜欢语速快，符号替代语言，字体清晰干练，无废话，不说教的老师。</p><p>熟悉的旋律</p><p>没有什么具体的回忆/时刻（不擅长～），仅是关于人生片段的零碎又缺少逻辑的感想交织</p><blockquote><p>虽然我们在城市中生活，但却不可完全将自身与田园剥离，而应主动接近田园，领略那乡土里升腾的文化因子，在继承中与世界交流共鉴，……</p></blockquote><h2 id="APS">APS</h2><ul class="lvl-0"><li class="lvl-2"><p>幽默是一种能力。</p></li><li class="lvl-2"><p>深藏不露是一种卓越的才能。</p></li><li class="lvl-2"><p>孤独是一种独特的胎记。</p></li></ul><p>你没有落后。</p><h2 id="-2"></h2><p>给我一点勇气，我能避免一些悲剧。给我一些预言，我能错过一些胡同。胡同？突然发现人生中的很多选择就像一条胡同，你认为尽头很美好，不惜不顾一切去追寻，得失从不对等，但是很多时候即使没有撞到南墙，也不愿回头。</p><p>既然我已经踏上这条道路，那么，任何东西都不应妨碍我沿着这条路走下去。——康德</p><p>何德何能，何德何能</p><p>wait until I thrive<br>该去看书啦</p><p>慎独慎思笃行</p><p>你未曾见过凌晨六点结霜的操场</p><p>我割去了它所有的皮毛，希望能得到是骨头的东西。</p><p>路在我脚下绵延，世界在我掌中翻覆，朝暮在我颅内游动。</p><p>Timelapse的终极问题是什么？人生到底该怎么活？</p><p>我的表面意思：我很爱玩，我一直在摸鱼浪费时间深层意思：摆烂都是借口我只是爱玩而已！我知道玩也是有意义的，但是学习不认真是不对的</p><p>我想起，老师问我们，“有问题吗？”<br>“有问题就提出来，因为没问题我就讲下一个了，你们都不说话我也不知道你们到底是都听懂了还是不清楚”<br>我心想我没问题，所以我不发声，就算有问题我也是私下说现在我发现我也遇到了这样的问题（</p><p>关于颜文字</p><p>脑电波没对上真是怎么都看不懂，知道了才觉得真好认╯▂╰</p><p>做与不做，确实是你的自由。</p><p>但尝试了不一定成功，但不去尝试，就一点机会都没有。</p><p>连实现自己实现梦想的勇气都没有的人，什么都不配拥有。</p><p>人总是在接近幸福时倍感幸福，在幸福进行时却患得患失。张爱玲</p><p>桑榆立晚阴</p><p>我们都是小怪兽，总有一天会被正义的奥特曼杀死。</p><p>蓦然之间，忽觉天地之间，只剩下了自己。</p><p>每个人都是第一人称的游戏。</p><h3 id="呓语">呓语</h3><p>何人为我楚舞，听我楚狂声？</p><p>你不会因为一个错误就万劫不复的。</p><p>有些事情还没开始就结束了。有些事情在脑中构想了无数次最后，什么也没有发生。有些事情把你的情绪搅动得天翻地覆，却其实不过是掉进你脑海中的一粒石子。</p><p>我需要听到回声全都闭嘴，让我听听内心的声音</p><h2 id="自我的思考">自我的思考</h2><p>意义的追求，存在欲，求知欲，快乐的追求，对应该的追求，对正确的追求，对完美的追求，对好的追求，何为先，何为后？</p><h2 id="无聊的总结">无聊的总结</h2><p>保温桶 2.5L<br>桶装水 5L<br>水桶 10L<br>盆-？</p><p>每次都是以为一两天就能完成的事情今天没写完，明天怎么还没写完，怎么都写了四五天？！怎么这么慢？…<br>然后写了一周多</p><p>有趣的灵魂比清秀隽永的字好一千倍。</p><p>一首清诗记今夕，细云新月耿黄昏。</p><p>陈陶《陇西行四首·其二》誓扫匈奴不顾身，五千貂锦丧胡尘。可怜无定河边骨，犹是春闺梦里人！</p><h2 id="每日">每日</h2><p>接热水步道乐跑统筹洗澡，睡衣，水桶，刀具筒清洗，消毒，干燥剂测试消毒各餐具</p><p>英语早读</p><p>力学作业要求：留边距写出物理定义先写物理公式/积分公式，（再写原函数），再带入</p><p>wo步骤：</p><ul class="lvl-0"><li class="lvl-2"><p>坐标轴</p></li><li class="lvl-2"><p>受力分析</p></li></ul><p>洗澡时间安排：周三/周六/日</p><p>内务打扫卫生</p><h3 id="洗澡">洗澡</h3><p>回寝室再穿袜子</p><h2 id="脑洞">脑洞</h2><p>【世界选择】</p><p>【上帝之手】“可能是上帝，在那个时候，用一对神秘的手——把你的眼睛，捂住了！让你看不到——正确的答案！”形容犯了看起来不可能犯的（只有痴呆才会犯的）小儿科错误。</p><h2 id="roast">roast</h2><ul class="lvl-0"><li class="lvl-2"><p>有一种垃圾的证明叫做证了就像没证一样</p></li></ul><h2 id="日记">日记</h2><p>juice233 将被物理学和神秘学双双抛弃( ﾟ∀。)</p><h2 id="戒律">戒律</h2><p>训戒别人前，请先反思自己是否有过错。</p><p>仰望星空之人，最终归于星空。我们的故事终结在星空之下。/Our tale ends where stars exist.</p><p>我们的时代被人遗忘</p><p>你们已经看到自己的力量了吗？</p><p>花园为谁而建？请为来者雕筑辉煌花园。</p>]]></content>
+        <content type="html"><![CDATA[<p>青春的心灵永不为 停滞。 梦想的火焰</p><p>青春活泼的心，决不作悲哀的留滞。——冰心</p><p>茶水常年无偿供应</p><p>早晨 朝黄昏时分 夕</p><p>“朝颜”，是 牵牛花 的别称，清晨花开，傍晚花谢，虽韶华易逝，但向阳而生。</p><p>夕颜即是 葫芦花，黄昏开花，凌晨花谢。</p><p>高糊 LD（低分辨率）</p><h2 id="Plan">Plan</h2><h3 id=""></h3><p>Emotion 😉<br>zhihuEmotion<br>TiebaEmotion</p><h3 id="杂话">杂话</h3><ul class="lvl-0"><li class="lvl-2"><p>mermaid 是不是先被 markdown-it 渲染了不能显示啊啊，可恶啊</p></li></ul><p>yml 配置信息</p><pre class="line-numbers language-yaml" data-language="yaml"><code class="language-yaml"><span class="token key atrule">category_map</span><span class="token punctuation">:</span>  <span class="token punctuation">-</span> <span class="token key atrule">工具集</span><span class="token punctuation">:</span> tools  <span class="token punctuation">-</span> <span class="token key atrule">技术集</span><span class="token punctuation">:</span> technique<span class="token key atrule">tag_map</span><span class="token punctuation">:</span>  <span class="token punctuation">-</span> <span class="token key atrule">JavaScript</span><span class="token punctuation">:</span> js  <span class="token punctuation">-</span> <span class="token key atrule">css</span><span class="token punctuation">:</span> css  <span class="token punctuation">-</span> <span class="token key atrule">html5</span><span class="token punctuation">:</span> html5<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="安利">安利</h3><p>独家披露/寒山潜龙</p><p>推荐 hexo 主题<br>butterfly <a href="https://butterfly.js.org/">https://butterfly.js.org/</a></p><h2 id="灵感">灵感</h2><p>春夏秋冬对应起承转合</p><h2 id="random-thoughts">random thoughts</h2><p>B0106 后门通向哪里？ 这可能是整个学院最能引起我兴趣的事。</p><p>我好像突然明白了什么，好像用手机而不是电脑记录是导致信息膨胀的罪魁祸首。</p><p>我感觉电脑端和手机端很不一样，电脑端的内容放到手机仅仅是适应可以不单独写css要好看就要大改.</p><p>css加过渡，可能跟动漫加帧数异曲同工→_→</p><p>粗线条图标更好看(º﹃º )</p><p><a href="https://cloudsavour.github.io/comments/demo">https://cloudsavour.github.io/comments/demo</a> 美好的静态页面留言板，可是需要github账号</p><h3 id="毫无意义的分析">毫无意义的分析</h3><p>认真务实乐观进取</p><p>我特别讨厌被迫承担他人错误造成的后果我发现我喜欢语速快，符号替代语言，字体清晰干练，无废话，不说教的老师。</p><p>熟悉的旋律</p><p>没有什么具体的回忆/时刻（不擅长～），仅是关于人生片段的零碎又缺少逻辑的感想交织</p><blockquote><p>虽然我们在城市中生活，但却不可完全将自身与田园剥离，而应主动接近田园，领略那乡土里升腾的文化因子，在继承中与世界交流共鉴，……</p></blockquote><h2 id="APS">APS</h2><ul class="lvl-0"><li class="lvl-2"><p>幽默是一种能力。</p></li><li class="lvl-2"><p>深藏不露是一种卓越的才能。</p></li><li class="lvl-2"><p>孤独是一种独特的胎记。</p></li></ul><p>你没有落后。</p><h2 id="-2"></h2><p>给我一点勇气，我能避免一些悲剧。给我一些预言，我能错过一些胡同。胡同？突然发现人生中的很多选择就像一条胡同，你认为尽头很美好，不惜不顾一切去追寻，得失从不对等，但是很多时候即使没有撞到南墙，也不愿回头。</p><p>既然我已经踏上这条道路，那么，任何东西都不应妨碍我沿着这条路走下去。——康德</p><p>何德何能，何德何能</p><p>wait until I thrive<br>该去看书啦</p><p>慎独慎思笃行</p><p>你未曾见过凌晨六点结霜的操场</p><p>在这个世界，你不能剥夺我追求美的权利。</p><p>我割去了它所有的皮毛，希望能得到是骨头的东西。</p><p>路在我脚下绵延，世界在我掌中翻覆，朝暮在我颅内游动。</p><p>Timelapse的终极问题是什么？人生到底该怎么活？</p><p>我的表面意思：我很爱玩，我一直在摸鱼浪费时间深层意思：摆烂都是借口我只是爱玩而已！我知道玩也是有意义的，但是学习不认真是不对的</p><p>我想起，老师问我们，“有问题吗？”<br>“有问题就提出来，因为没问题我就讲下一个了，你们都不说话我也不知道你们到底是都听懂了还是不清楚”<br>我心想我没问题，所以我不发声，就算有问题我也是私下说现在我发现我也遇到了这样的问题（</p><p>关于颜文字</p><p>脑电波没对上真是怎么都看不懂，知道了才觉得真好认╯▂╰</p><p>做与不做，确实是你的自由。</p><p>但尝试了不一定成功，但不去尝试，就一点机会都没有。</p><p>连实现自己实现梦想的勇气都没有的人，什么都不配拥有。</p><p>人总是在接近幸福时倍感幸福，在幸福进行时却患得患失。张爱玲</p><p>桑榆立晚阴</p><p>我们都是小怪兽，总有一天会被正义的奥特曼杀死。</p><p>蓦然之间，忽觉天地之间，只剩下了自己。</p><p>每个人都是第一人称的游戏。</p><h3 id="呓语">呓语</h3><p>何人为我楚舞，听我楚狂声？</p><p>你不会因为一个错误就万劫不复的。</p><p>有些事情还没开始就结束了。有些事情在脑中构想了无数次最后，什么也没有发生。有些事情把你的情绪搅动得天翻地覆，却其实不过是掉进你脑海中的一粒石子。</p><p>我需要听到回声全都闭嘴，让我听听内心的声音</p><h2 id="自我的思考">自我的思考</h2><p>意义的追求，存在欲，求知欲，快乐的追求，对应该的追求，对正确的追求，对完美的追求，对好的追求，何为先，何为后？</p><h2 id="无聊的总结">无聊的总结</h2><p>保温桶 2.5L<br>桶装水 5L<br>水桶 10L<br>盆-？</p><p>每次都是以为一两天就能完成的事情今天没写完，明天怎么还没写完，怎么都写了四五天？！怎么这么慢？…<br>然后写了一周多</p><p>有趣的灵魂比清秀隽永的字好一千倍。</p><p>一首清诗记今夕，细云新月耿黄昏。</p><p>陈陶《陇西行四首·其二》誓扫匈奴不顾身，五千貂锦丧胡尘。可怜无定河边骨，犹是春闺梦里人！</p><h2 id="每日">每日</h2><p>接热水步道乐跑统筹洗澡，睡衣，水桶，刀具筒清洗，消毒，干燥剂测试消毒各餐具</p><p>英语早读</p><p>力学作业要求：留边距写出物理定义先写物理公式/积分公式，（再写原函数），再带入</p><p>wo步骤：</p><ul class="lvl-0"><li class="lvl-2"><p>坐标轴</p></li><li class="lvl-2"><p>受力分析</p></li></ul><p>洗澡时间安排：周三/周六/日</p><p>内务打扫卫生</p><h3 id="洗澡">洗澡</h3><p>回寝室再穿袜子</p><h2 id="脑洞">脑洞</h2><p>【世界选择】</p><p>【上帝之手】“可能是上帝，在那个时候，用一对神秘的手——把你的眼睛，捂住了！让你看不到——正确的答案！”形容犯了看起来不可能犯的（只有痴呆才会犯的）小儿科错误。</p><h2 id="roast">roast</h2><ul class="lvl-0"><li class="lvl-2"><p>有一种垃圾的证明叫做证了就像没证一样</p></li></ul><h2 id="日记">日记</h2><p>juice233 将被物理学和神秘学双双抛弃( ﾟ∀。)</p><h2 id="戒律">戒律</h2><p>训戒别人前，请先反思自己是否有过错。</p><p>仰望星空之人，最终归于星空。我们的故事终结在星空之下。/Our tale ends where stars exist.</p><p>我们的时代被人遗忘</p><p>你们已经看到自己的力量了吗？</p><p>花园为谁而建？请为来者雕筑辉煌花园。</p>]]></content>
       
       
       
@@ -1237,7 +1328,7 @@
       <link href="/wonder/2023/01/30/shackles/"/>
       <url>/wonder/2023/01/30/shackles/</url>
       
-        <content type="html"><![CDATA[<h2 id="视角一">视角一</h2><h3 id="身体的镣铐">身体的镣铐</h3><p>无穷无尽的书本与试卷，剥夺了我仰望蓝天的权利。</p><blockquote><p>黑夜给了我黑色的眼睛，我却用它寻找光明。</p></blockquote><h4 id="睡眠剥夺">睡眠剥夺</h4><h3 id="思想的枷锁">思想的枷锁</h3><p>我能想到的是狭隘的水域，我所能想到的事全是悲伤的事情。</p><h4 id="兴趣压抑">兴趣压抑</h4><blockquote><p>……清兵卫现在正热衷于绘画，自从有了新的寄托，他早已不怨恨教员和用锤子打破了他十多只葫芦的父亲了。　　可是他的父亲，对于他的喜欢绘画，又在开始嘀咕了。</p></blockquote><p>文章链接：<br><a href="http://www.360doc.cn/article/14251861_322634232.html?lan=cn&amp;shareapp=1&amp;from=wap&amp;t=1638029566649&amp;artid=322634232">http://www.360doc.cn/article/14251861_322634232.html?lan=cn&amp;shareapp=1&amp;from=wap&amp;t=1638029566649&amp;artid=322634232</a></p><h2 id="视角二">视角二</h2><p>“我的不自然，窘迫以及无来由的自我道德枷锁，给身边的人也套上了枷锁，让她们觉得不自由。”</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="身体的镣铐">身体的镣铐</h3><p>无穷无尽的书本与试卷，剥夺了我仰望蓝天的权利。</p><blockquote><p>黑夜给了我黑色的眼睛，我却用它寻找光明。</p></blockquote><h4 id="睡眠剥夺">睡眠剥夺</h4><h3 id="思想的枷锁">思想的枷锁</h3><p>我能想到的是狭隘的水域，我所能想到的事全是悲伤的事情。</p><h4 id="兴趣压抑">兴趣压抑</h4><blockquote><p>……清兵卫现在正热衷于绘画，自从有了新的寄托，他早已不怨恨教员和用锤子打破了他十多只葫芦的父亲了。　　可是他的父亲，对于他的喜欢绘画，又在开始嘀咕了。</p></blockquote><p>文章链接：<br><a href="http://www.360doc.cn/article/14251861_322634232.html?lan=cn&amp;shareapp=1&amp;from=wap&amp;t=1638029566649&amp;artid=322634232">http://www.360doc.cn/article/14251861_322634232.html?lan=cn&amp;shareapp=1&amp;from=wap&amp;t=1638029566649&amp;artid=322634232</a></p><h3 id="命运的桎梏">命运的桎梏</h3>]]></content>
       
       
       
@@ -1258,7 +1349,7 @@
       <link href="/wonder/2023/01/30/shashafenbuqing/"/>
       <url>/wonder/2023/01/30/shashafenbuqing/</url>
       
-        <content type="html"><![CDATA[<p>柚橘橙柑柠</p><p>肇始发轫滥觞的区别</p><p>电线充电线：充电网线数据线<br>USB（UniversalSerialBUS，通用串行总线）：充电，传输数据</p><p>网上 依托网络线上 同线上线下 现实世界在线 参考DRRR Chatroom<br>离线 参考DOLLARS离线讨论</p>]]></content>
+        <content type="html"><![CDATA[<p>柚橘橙柑柠</p><p>肇始发轫滥觞的区别</p><p>电线充电线：充电网线数据线<br>USB（UniversalSerialBUS，通用串行总线）：充电，传输数据</p><p>caring/considerate<br>creative/innovative<br>bright<br>bashful<br>aggressive<br>ambitious<br>frank/honest/earnest/straightforward</p><p>网上 依托网络线上 同线上线下 现实世界在线 参考DRRR Chatroom<br>离线 参考DOLLARS离线讨论</p>]]></content>
       
       
       
@@ -1286,25 +1377,6 @@
     
     
     <entry>
-      <title>偏见</title>
-      <link href="/wonder/2023/01/30/pian-jian/"/>
-      <url>/wonder/2023/01/30/pian-jian/</url>
-      
-        <content type="html"><![CDATA[<p>@</p><p>自以为是：狭隘不知：浅陋</p><p>无知没有自以为是：正常人无知没有自以为是而不懂知：笨无知而不知（自以为是）：蠢无知而践行：莽夫</p><p>无知而不懂知：愚人知之者而懂知：智者</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> bias </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>脑洞变现</title>
       <link href="/wonder/2023/01/30/bian-xian/"/>
       <url>/wonder/2023/01/30/bian-xian/</url>
@@ -1316,6 +1388,25 @@
         <tags>
             
             <tag> 梦想与现实 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>偏见</title>
+      <link href="/wonder/2023/01/30/pian-jian/"/>
+      <url>/wonder/2023/01/30/pian-jian/</url>
+      
+        <content type="html"><![CDATA[<p>@</p><p>自以为是：狭隘不知：浅陋</p><p>无知没有自以为是：正常人无知没有自以为是而不懂知：笨无知而不知（自以为是）：蠢无知而践行：莽夫</p><p>无知而不懂知：愚人知之者而懂知：智者</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> bias </tag>
             
         </tags>
       
@@ -1349,6 +1440,25 @@
       
         <content type="html"><![CDATA[<h3 id="质与量">质与量</h3><p>词云：</p><ul class="lvl-0"><li class="lvl-2"><p>矫枉过正</p></li><li class="lvl-2"><p>物极必反</p></li></ul><p>虽然说没有人能摆脱刻奇，但我相信，人类反刻奇的力度远远比不上原始的刻奇。</p>]]></content>
       
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>书目</title>
+      <link href="/wonder/2023/01/30/source/books/"/>
+      <url>/wonder/2023/01/30/source/books/</url>
+      
+        <content type="html"><![CDATA[<p>《家庭、私有制和国家的起源》恩格斯</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资源 </category>
+          
+      </categories>
       
       
     </entry>
