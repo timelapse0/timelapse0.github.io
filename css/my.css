@@ -1,0 +1,15 @@
+.v[data-class="v"] .vwrap .vemojis i{
+    width:170px !important
+}
+.v[data-class=v] .vemoji,
+.v[data-class=v] .emoji {
+    width:150px !important;
+    height:150px !important;
+}
+
+.v[data-class="v"] .vcards .vcard .vh .vmeta .vat{
+    color:#BCD4E3 !important;
+}
+.vpower{
+    display: none;
+}
