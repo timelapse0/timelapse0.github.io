@@ -5,7 +5,9 @@
 
 
 
-<head>
+<head><!-- hexo injector head_begin start -->
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.3/jquery.js"></script>
+<!-- hexo injector head_begin end -->
   <meta charset="UTF-8">
   <link rel="apple-touch-icon" sizes="76x76" href="/img/fluid.png">
   <link rel="icon" href="/img/fluid.png">
@@ -25,6 +27,8 @@
 <meta name="twitter:card" content="summary_large_image">
   
   
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  
   
   <title>分类 - Timelapse</title>
 
@@ -42,7 +46,7 @@
 
 
 <link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_lbnruvf0jn.css">
-<link rel="stylesheet" href="//at.alicdn.com/t/c/font_3900010_dq9a7m1zy7.css">
+<link rel="stylesheet" href="//at.alicdn.com/t/c/font_3900010_3jfotff7y9b.css">
 
 
 <link  rel="stylesheet" href="/css/main.css" />
@@ -55,11 +59,15 @@
 
 
 
+  
+<link rel="stylesheet" href="/css/my.css">
+
+
 
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
     Fluid.ctx = Object.assign({}, Fluid.ctx)
-    var CONFIG = {"hostname":"timelapse0.github.io","root":"/","version":"1.9.4","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"follow_dnt":true,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml"};
+    var CONFIG = {"hostname":"timelapse0.github.io","root":"/","version":"1.9.4","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":["home","category","links","page"]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":true,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml"};
 
     if (CONFIG.web_analytics.follow_dnt) {
       var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
@@ -69,6 +77,21 @@
   <script  src="/js/utils.js" ></script>
   <script  src="/js/color-schema.js" ></script>
   
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
 
 
   
@@ -102,35 +125,32 @@
           
           
           
-            <li class="nav-item">
-              <a class="nav-link" href="/">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" href="javascript:;" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <i class="iconfont icon-home-fill"></i>
-                <span>首页/home</span>
+                <span>大厅</span>
               </a>
-            </li>
-          
-        
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-link" href="/doors/">
-                <i class="iconfont icon-doors"></i>
-                <span>大厅/DOORS</span>
-              </a>
-            </li>
-          
-        
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-link" href="/process/">
-                <i class="iconfont icon-project"></i>
-                <span>项目进度/process</span>
-              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/">
+                    <i class="iconfont icon-doors"></i>
+                    <span>DOORS</span>
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/process/">
+                    <i class="iconfont icon-project"></i>
+                    <span>项目进度</span>
+                  </a>
+                
+                  
+              </div>
             </li>
           
         
@@ -141,7 +161,7 @@
             <li class="nav-item">
               <a class="nav-link" href="/want/">
                 <i class="iconfont icon-extension"></i>
-                <span>征稿/want</span>
+                <span>征稿</span>
               </a>
             </li>
           
@@ -150,11 +170,55 @@
           
           
           
-            <li class="nav-item">
-              <a class="nav-link" href="/details/">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" href="javascript:;" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <i class="iconfont icon-category-fill"></i>
-                <span>详情/details</span>
+                <span>详情</span>
               </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/docs/">
+                    <i class="iconfont icon-category-fill"></i>
+                    <span>详情</span>
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/categories/">
+                    <i class="iconfont icon-category-fill"></i>
+                    <span>分类</span>
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/docs/dbg">
+                    
+                    <span>桌游</span>
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/forum/">
+                    
+                    <span>圆桌</span>
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/archives/">
+                    <i class="iconfont icon-"></i>
+                    <span>创意商场</span>
+                  </a>
+                
+              </div>
             </li>
           
         
@@ -163,33 +227,9 @@
           
           
             <li class="nav-item">
-              <a class="nav-link" href="/archives/">
-                <i class="iconfont icon-archive-fill"></i>
-                <span>历史记忆/archive</span>
-              </a>
-            </li>
-          
-        
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-link" href="/basement/">
-                <i class="iconfont icon-basement"></i>
-                <span>地下室/basement</span>
-              </a>
-            </li>
-          
-        
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-link" href="/expectation/">
-                <i class="iconfont icon-heart"></i>
-                <span>愿景/expectation</span>
+              <a class="nav-link" href="/tags/">
+                <i class="iconfont icon-stove"></i>
+                <span>围炉</span>
               </a>
             </li>
           
@@ -201,7 +241,7 @@
             <li class="nav-item">
               <a class="nav-link" href="/juice/">
                 <i class="iconfont icon-tags-fill"></i>
-                <span>橘迹/juice</span>
+                <span>橘迹</span>
               </a>
             </li>
           
@@ -210,11 +250,55 @@
           
           
           
-            <li class="nav-item">
-              <a class="nav-link" href="/about/">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" href="javascript:;" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <i class="iconfont icon-group"></i>
-                <span>我们/us</span>
+                <span>我们</span>
               </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/about/">
+                    <i class="iconfont icon-group"></i>
+                    <span>关于</span>
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/about/cell">
+                    <i class="iconfont icon-extension"></i>
+                    <span>细胞</span>
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/archives/">
+                    <i class="iconfont icon-archive-fill"></i>
+                    <span>历史记忆博物馆</span>
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/basement/">
+                    <i class="iconfont icon-basement"></i>
+                    <span>密室</span>
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/expectation/">
+                    <i class="iconfont icon-heart"></i>
+                    <span>愿景</span>
+                  </a>
+                
+              </div>
             </li>
           
         
@@ -281,6 +365,90 @@
 <div class="category-list">
   
   
+    
+    
+    
+    <div class="category row nomargin-x">
+      <a class="category-item collapsed
+          list-group-item category-item-action col-10 col-md-11 col-xm-11" title="公告栏"
+        id="heading-3921b63ed83f41db0a708002b998dda2" role="tab" data-toggle="collapse" href="#collapse-3921b63ed83f41db0a708002b998dda2"
+        aria-expanded="false"
+      >
+        公告栏
+        <span class="list-group-count"></span>
+        <i class="iconfont icon-arrowright"></i>
+      </a>
+      
+        <a href="/categories/%E5%85%AC%E5%91%8A%E6%A0%8F/" class="category-count col-2 col-md-1 col-xm-1">
+          <i class="iconfont icon-articles"></i>
+          <span>1</span>
+        </a>
+      
+      <div class="category-collapse collapse " id="collapse-3921b63ed83f41db0a708002b998dda2"
+           role="tabpanel" aria-labelledby="heading-3921b63ed83f41db0a708002b998dda2">
+        
+        
+          
+  <div class="category-post-list">
+    
+    
+      
+      
+        <a href="/bbs.html" title="📜 公告"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">📜 公告</span>
+        </a>
+      
+    
+  </div>
+
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div class="category row nomargin-x">
+      <a class="category-item collapsed
+          list-group-item category-item-action col-10 col-md-11 col-xm-11" title="栗子"
+        id="heading-029b0af4787946d286f5b8053a5447aa" role="tab" data-toggle="collapse" href="#collapse-029b0af4787946d286f5b8053a5447aa"
+        aria-expanded="false"
+      >
+        栗子
+        <span class="list-group-count"></span>
+        <i class="iconfont icon-arrowright"></i>
+      </a>
+      
+        <a href="/categories/%E6%A0%97%E5%AD%90/" class="category-count col-2 col-md-1 col-xm-1">
+          <i class="iconfont icon-articles"></i>
+          <span>1</span>
+        </a>
+      
+      <div class="category-collapse collapse " id="collapse-029b0af4787946d286f5b8053a5447aa"
+           role="tabpanel" aria-labelledby="heading-029b0af4787946d286f5b8053a5447aa">
+        
+        
+          
+  <div class="category-post-list">
+    
+    
+      
+      
+        <a href="/2023/02/17/sample/" title="这只是一个简单的栗子……"
+           class="list-group-item list-group-item-action
+           ">
+          <span class="category-post">这只是一个简单的栗子……</span>
+        </a>
+      
+    
+  </div>
+
+        
+      </div>
+    </div>
+  
 </div>
 
 
@@ -328,9 +496,34 @@
     <div class="footer-inner">
   
     <div class="footer-content">
-       <a href="" target="_blank" rel="nofollow noopener"><span>Donate</span></a> <i class="iconfont icon-love"></i> <a href="" target="_blank" rel="nofollow noopener"><span>Timelapse</span></a>
+       <a id="donate" target="_blank" rel="nofollow noopener"><span>Donate</span></a> <i class="iconfont icon-love"></i> <a href="/about/" target="_blank" rel="nofollow noopener"><span>Timelapse</span></a> <div id="container"></div> <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.3/jquery.js"></script> <script> $("#donate").bind("click",function(){ var newElement = "<img src=\"/img/wechat.png\" style=\"width:100vw;height:100vh;object-fit:contain;margin:auto;\">"; $("#container").append(newElement); $("#container").css("z-index","10000");    $("#container").css("opacity","1");
+$("#container").bind("click",function(){  $("#container").css("opacity","0"); $("#container").css("z-index","-1"); $("#container").html(""); }) }) </script>
     </div>
   
+  
+    <div class="statistics">
+  
+  
+
+  
+    
+      <span id="busuanzi_container_site_pv" style="display: none">
+        总访问量 
+        <span id="busuanzi_value_site_pv"></span>
+         次
+      </span>
+    
+    
+      <span id="busuanzi_container_site_uv" style="display: none">
+        总访客数 
+        <span id="busuanzi_value_site_uv"></span>
+         人
+      </span>
+    
+    
+  
+</div>
+
   
   
   
@@ -385,6 +578,8 @@
 
   <script  src="/js/local-search.js" ></script>
 
+  <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" ></script>
+
 
 
 
@@ -400,6 +595,21 @@
     <div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div>
   </noscript>
 <!-- hexo injector body_end start -->
-<link rel="stylesheet" href="/css/my.css">
+<script>
+$(function() {
+    $('body').keyup(function() {
+        if (document.activeElement.localName != "input" && document.activeElement.localName != "select" ) {
+            var value = event.keyCode;
+                if (value == 86) {
+                   window.location.href ='/basement/'
+                };
+        }
+    });
+});
+</script>
+
+<script>
+$('.page-content p a').addClass('iconfont')
+</script>
 <!-- hexo injector body_end end --></body>
 </html>
