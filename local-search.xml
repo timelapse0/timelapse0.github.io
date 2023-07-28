@@ -107,18 +107,7 @@
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>地下室</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<h3 id="声明">📃 声明</h3><h4 id="申请表主要是自我介绍">申请表（主要是自我介绍）</h4><ul><li>新成员和已加入一段时间的会员都可以投稿</li><li>自我介绍的内容可以未来放维基里，也可以保密作档案</li></ul><h4 id="入会申请表格式">入会申请表格式</h4><p>申请表格式如下，如有修改意见欢迎提出。 <ahref="https://docs.qq.com/doc/DZWNCU0FrWm9vWXFN">【腾讯文档】申请表格式</a></p><h4 id="项目申请">🥪 项目申请</h4><p>（待更新）</p><h4 id="timelapse-会员调研未竟稿">🍪 Timelapse 会员调研（未竟稿）</h4><p>您对人设是否感兴趣您能否接受/是否推荐第三方的网站/应用，如腾讯会议，腾讯文档。<br />您希望timelapse的入会和入群(qq/微信)条件各是什么样的 您对 Timelapse世界观的看法 您是否感觉 Timelapse 有些假大空/阳春白雪/乌托邦？<br />关于组织货币制度，您是否有独特的看法 ……</p>]]></content>
+    <content type="html"><![CDATA[<style>table img{    width:6rem;    height:6rem;    border-radius:3rem;    padding:0.5rem;    margin:0;    max-width:8rem !important;}table td{     padding: 1rem 1.5rem 0 1.5rem;}table{    text-align:center;    color:#555;}</style><divstyle="background:#fffcf9;width:90%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px"><p><strong>会员明信片墙</strong><br />自我介绍啥的一定要自己写☆ 【活动】会员明信片征集！ | <ahref="https://docs.qq.com/doc/DZVJHZlhWWkZUVWlu">【腾讯文档】会员信息注册表</a></p></div><divstyle="background:#fffcf9;width:90%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px"><table><thead><tr class="header"><th>头像</th><th>自我介绍</th></tr></thead><tbody><tr class="odd"><td><img src="http://localhost:4000/img/default.png" /></td><td>一句话介绍</td></tr><tr class="even"><td><strong>名字</strong></td><td>#标签1 #标签2 #标签3</td></tr><tr class="odd"><td>参考项</td><td><span style="font-size:0.9rem;"><spanstyle="padding-bottom:0px;box-shadow:#6b67e442 0px -8px 0px inset">个人信息</span>/姓名/昵称/性别/身高/体重/<spanstyle="padding-bottom:0px;box-shadow:#12fa4c1a 0px -10px 0px inset">生日</span>/血型/<br><spanstyle="padding-bottom:0px;box-shadow:#f3fa12ba 0px -6px 0px inset">坐标</span>/家乡/想去的地方/专业/职业/机构/学校/<br>自我介绍/<spanstyle="padding-bottom:0px;box-shadow:#5fd4f030 0px -6px 0px inset">一句话介绍</span>/性格/<spanstyle="padding-bottom:0px;box-shadow:#cffa564a 0px -6px 0px inset">兴趣爱好</span>/特长/<br>日常活跃时间/<spanstyle="padding-bottom:0px;box-shadow:#8c2b7824 0px -6px 0px inset">联系方式</span>/常驻网络平台/常用马甲/<br>人际关系/CP/人生经历介绍/任职经历/<br><spanstyle="padding-bottom:0px;box-shadow:#f4eae187 0px -6px 0px inset">个人理想</span>/入会宣言/座右铭/想法/标签/<br><spanstyle="padding-bottom:0px;box-shadow:#f6210a52 0px -8px 0px inset">人设</span>/本体/外表/武力值/技能/职业/其他设定……</span></td></tr><tr class="even"><td>生日</td><td></td></tr><tr class="odd"><td><span style="color:#333;">坐标</span></td><td></td></tr><tr class="even"><td>兴趣</td><td></td></tr><tr class="odd"><td>入会宣言</td><td></td></tr><tr class="even"><td>一句话介绍</td><td></td></tr><tr class="odd"><td>……</td><td></td></tr><tr class="even"><td><span style="color:#e5cd94f0">印象（他人评价）</span></td><td></td></tr><tr class="odd"><td><spanstyle="padding-bottom:0px;box-shadow:#f6210a29 0px -14px 0px inset;display:block;width:3rem;margin-left:1.5rem"><strong>人设</strong></span></td><td></td></tr></tbody></table></div><divstyle="background:#fffcf9;width:90%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px"><table><tbody><tr class="odd"><td><img src="http://localhost:4000/img/default.png" /></td><td><span style="color:#888;font-weight:700;">一句话介绍<br>What'sUp<br><br></span>流浪的，稻草人。 生活在空中，仰望天空。</td></tr><tr class="even"><td><strong>橘子</strong></td><td>#行动的矮子 #见识浅薄</td></tr><tr class="odd"><td><spanstyle="font-size:0.9rem;color:#333;font-weight:600;">生日</span></td><td>一个冬天</td></tr><tr class="even"><td><spanstyle="font-size:0.9rem;color:#333;font-weight:600;">坐标</span></td><td>不告诉你</td></tr><tr class="odd"><td><spanstyle="font-size:0.9rem;color:#333;font-weight:600;">诞生地</span></td><td>安徽-皖西</td></tr><tr class="even"><td><spanstyle="font-size:0.9rem;padding-bottom:0px;box-shadow:#f6210a29 0px -14px 0px inset;display:block;width:4.5rem;margin-left:3rem;color:#444;"><strong>兴趣爱好</strong></span></td><td><spanstyle="font-size:0.9rem;color:#5d6876f5"><u>探索世界规律</u>；思考，阅读，看影视作品和动漫，旅游；绘画和手工；运动方面羽毛球</span></td></tr><tr class="odd"><td><spanstyle="font-size:0.9rem;display:block;width:10rem;color:#555;font-weight:600;"><s>入会宣言</s><strong>创会初因</strong></span></td><td>让生活变得更快乐</td></tr><tr class="even"><td><spanstyle="font-size:0.9rem;color:#444;font-weight:600;">技能</span></td><td>0</td></tr><tr class="odd"><td><spanstyle="font-size:0.9rem;color:#444;font-weight:600;">专业/领域</span></td><td>物理学</td></tr></tbody></table></div>]]></content>
     
   </entry>
   
@@ -147,44 +136,11 @@
   
   
   <entry>
-    <title>愿景与展望</title>
+    <title>地下室</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h2 id="尾声">尾声</h2><p>人来人往， 但 温柔的陌生人让我停下了脚步。</p><p>We appear and we disappear. And we are just…     passing through, butwe are so important to some.</p><style>    #vcomments{    background:lightyellow !important;    color:#9AA6C1 !important;    border-radius:4px !important;    border:none;    box-shadow:rgba(255,245,243,0.5) 2px 2px 10px !important;    }    .vempty{        display:none !important    }</style><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '留下你的期望与祝愿吧！'  }) </script>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title></title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[*{    -webkit-tap-highlight-color:transparent;    outline:none;}.page-content a{    color:#6483B0 !important;}/*内链图标*/.page-content p a[href]::after{    content:'  \e630'}/*外联图标*/.page-content p a[href*=http]::after{    content:'  \e61d'}/*docs链接图标*/.page-content p a[href*='/docs/']::after{    content:''}.page-content p a[href*='/docs/']::before{    content:'\e601  '}/*收集表链接图标*/.page-content p a[href*='/docs/form']::after{    content:''}.page-content p a[href*='/docs/form']::before{    content:'\e62a  '}#container{    background:rgba(0,0,0,0.6);opacity:0;    display: flex;    position:fixed;    height: 100vh;    width: 100vw;        left: 0;    top: 0;    z-index:-1;    transition: 0.6s;}[name="link"]{  display:none !important;}.v[data-class="v"] .vwrap .vheader .vinput[name="nick"]{    width:33.33% !important;}.v[data-class="v"] .vwrap .vheader .vinput[name="mail"]{    width:66.66% !important;}.v[data-class="v"] .vwrap .vemojis i{    width:170px !important}.v[data-class=v] .vemoji,.v[data-class=v] .emoji {    width:150px !important;    height:150px !important;}.v[data-class="v"] .vcards .vcard .vh .vmeta .vat{    color:#BCD4E3 !important;}.vpower{    display: none;}]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title></title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<h3 id="名词解释">名词解释</h3><p>挂号 | 即有头衔不干活</p>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>详细介绍</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<h2 id="萌新指北">萌新指北</h2><p>（供新成员参考，有待更新） ## 组织构成</p><pre><code class=" mermaid">graph RL先锋--救世会--&gt;Timelapse 科学--wonder --&gt;Timelapse乐趣--云品--&gt;Timelapse</code></pre><h2 id="项目">项目</h2><p>详情见<a href="/docs/project">项目</a></p><h2 id="网页浏览">网页浏览</h2><h5 id="快捷键">快捷键</h5><p>/c 自定义（未设置） /m 打开世界观地图 /v 快速通道</p><h2 id="写作">写作</h2><p>详情见<a href="/docs/writing">写作</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="声明">📃 声明</h3><h4 id="申请表主要是自我介绍">申请表（主要是自我介绍）</h4><ul><li>新成员和已加入一段时间的会员都可以投稿</li><li>自我介绍的内容可以未来放维基里，也可以保密作档案</li></ul><h4 id="入会申请表格式">入会申请表格式</h4><p>申请表格式如下，如有修改意见欢迎提出。 <ahref="https://docs.qq.com/doc/DZWNCU0FrWm9vWXFN">【腾讯文档】申请表格式</a></p><h4 id="项目申请">🥪 项目申请</h4><p>（待更新）</p><h4 id="timelapse-会员调研未竟稿">🍪 Timelapse 会员调研（未竟稿）</h4><p>您对人设是否感兴趣您能否接受/是否推荐第三方的网站/应用，如腾讯会议，腾讯文档。<br />您希望timelapse的入会和入群(qq/微信)条件各是什么样的 您对 Timelapse世界观的看法 您是否感觉 Timelapse 有些假大空/阳春白雪/乌托邦？<br />关于组织货币制度，您是否有独特的看法 ……</p>]]></content>
     
   </entry>
   
@@ -202,11 +158,66 @@
   
   
   <entry>
+    <title></title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[*{    -webkit-tap-highlight-color:transparent;    outline:none;}.page-content a{    color:#6483B0 !important;}/*内链图标*/.page-content p a[href]::after{    content:'  \e630'}/*外联图标*/.page-content p a[href*=http]::after{    content:'  \e61d'}/*docs链接图标*/.page-content p a[href*='/docs/']::after{    content:''}.page-content p a[href*='/docs/']::before{    content:'\e601  '}/*收集表链接图标*/.page-content p a[href*='/docs/form']::after{    content:''}.page-content p a[href*='/docs/form']::before{    content:'\e62a  '}#container{    background:rgba(0,0,0,0.6);opacity:0;    display: flex;    position:fixed;    height: 100vh;    width: 100vw;        left: 0;    top: 0;    z-index:-1;    transition: 0.6s;}[name="link"]{  display:none !important;}.v[data-class="v"] .vwrap .vheader .vinput[name="nick"]{    width:33.33% !important;}.v[data-class="v"] .vwrap .vheader .vinput[name="mail"]{    width:66.66% !important;}.v[data-class="v"] .vwrap .vemojis i{    width:170px !important}.v[data-class=v] .vemoji,.v[data-class=v] .emoji {    width:150px !important;    height:150px !important;}.v[data-class="v"] .vcards .vcard .vh .vmeta .vat{    color:#BCD4E3 !important;}.vpower{    display: none;}]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>详细介绍</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<h2 id="萌新指北">萌新指北</h2><p>（供新成员参考，有待更新） ## 组织构成</p><pre><code class=" mermaid">graph RL先锋--救世会--&gt;Timelapse 科学--wonder --&gt;Timelapse乐趣--云品--&gt;Timelapse</code></pre><h2 id="项目">项目</h2><p>详情见<a href="/docs/project">项目</a></p><h2 id="网页浏览">网页浏览</h2><h5 id="快捷键">快捷键</h5><p>/c 自定义（未设置） /m 打开世界观地图 /v 快速通道</p><h2 id="写作">写作</h2><p>详情见<a href="/docs/writing">写作</a></p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<h3 id="名词解释">名词解释</h3><p>挂号 | 即有头衔不干活</p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>愿景与展望</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<h2 id="尾声">尾声</h2><p>人来人往， 但 温柔的陌生人让我停下了脚步。</p><p>We appear and we disappear. And we are just…     passing through, butwe are so important to some.</p><style>    #vcomments{    background:lightyellow !important;    color:#9AA6C1 !important;    border-radius:4px !important;    border:none;    box-shadow:rgba(255,245,243,0.5) 2px 2px 10px !important;    }    .vempty{        display:none !important    }</style><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '留下你的期望与祝愿吧！'  }) </script>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>邮箱</title>
     <link href="/"/>
     <url>/</url>
     
     <content type="html"><![CDATA[<style>    #vcomments{    background:lightyellow !important;    color:#9AA6C1 !important;    border-radius:4px !important;    border:none;    box-shadow:rgba(255,245,243,0.5) 2px 2px 10px !important;    }    .vempty{        display:none !important    }</style><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '欢迎留言！'  }) </script>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>圆桌</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p>鼓励平等友善的评论。</p><p>（分类：issues/……）</p><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '格式：【分类】正文'  }) </script>]]></content>
     
   </entry>
   
@@ -224,17 +235,6 @@
   
   
   <entry>
-    <title>征稿</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>项目进度</title>
     <link href="/"/>
     <url>/</url>
@@ -246,11 +246,11 @@
   
   
   <entry>
-    <title>圆桌</title>
+    <title>征稿</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>鼓励平等友善的评论。</p><p>（分类：issues/……）</p><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '格式：【分类】正文'  }) </script>]]></content>
+    <content type="html"><![CDATA[]]></content>
     
   </entry>
   
@@ -279,17 +279,6 @@
   
   
   <entry>
-    <title></title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<h1 id="design-intro-笔记体系介绍">DESIGN INTRO 笔记体系介绍</h1><h2 id="色系名称">色系名称</h2><p>past future perfect continuous tense</p><h2 id="配色灵感">配色灵感</h2><p>仙蒂瑞拉公主+傍晚的霞雾</p><h2 id="语法">语法</h2><h3 id="writer">writer</h3><h3 id="reader">reader</h3>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>桌游</title>
     <link href="/"/>
     <url>/</url>
@@ -301,22 +290,33 @@
   
   
   <entry>
-    <title></title>
+    <title>项目</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h2 id="语法支持">语法支持</h2><ul><li>markdown</li><li>timemark</li></ul><h1 id="笔记体系介绍"><a href="/writing/design/">笔记体系介绍</a></h1>]]></content>
+    <content type="html"><![CDATA[<h2 id="具体">具体</h2><h3 id="wonder">wonder</h3><h4 id="希望">希望</h4><p>构建圈子</p><h3 id="云养">云养</h3><p>见 <a href="cyber-petting">cyber-petting</a></p><h3 id="dbg">DBG</h3><p>见 <a href="dbg">DBG</a></p><h3 id="朝暮计划">朝暮计划</h3><h5 id="日常打卡">日常打卡</h5><p>【工作学习卡】</p><p>计分：每小时0.1分，打卡成绩=时长×天数×稳定度 时长：以 h 计，0-24h天数：无上限 稳定度：0-1，每三日更新一次。 兑换：结账：每过一节气结账一次，少于三日的不计。 一节气总额≈2.4×15×1=36</p><p>工作学习分未达100分，要打兴趣愿望卡，每季度需预支225分；工作学习分达100分，可免费打兴趣愿望卡。</p><p>【兴趣愿望卡】 计分：每小时1分 时长：以 h 计，0-24h 天数：无上限稳定度：0-1，每三日更新一次。 兑换：结账：每过一节气结账一次，少于三日的不计。 一节气总额≈24×15×1=360</p><h5 id="成就达成">成就达成</h5><h4 id="计分">计分</h4><p>+1--取得新成就的状态 -1--荒废的状态 *--中间态</p><h4 id="奖励">奖励</h4><p>最终得分 = 日常打卡（50%）+成就达成（50%）</p><h3 id="aps">APS</h3><p>见 http://47.113.199.87/2023/01/29/aps/</p><h3 id="a-trait-test">A trait Test</h3><h5 id="不是隐私的原因">不是隐私的原因</h5><ul><li>学校某种强制措施间接导致作业公布</li><li>……</li></ul><h2 id="奖项设置">奖项设置</h2><p>奖励：果酱</p>]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>项目</title>
+    <title></title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h2 id="具体">具体</h2><h3 id="wonder">wonder</h3><h4 id="希望">希望</h4><p>构建圈子</p><h3 id="云养">云养</h3><p>见 <a href="cyber-petting">cyber-petting</a></p><h3 id="dbg">DBG</h3><p>见 <a href="dbg">DBG</a></p><h3 id="朝暮计划">朝暮计划</h3><h5 id="日常打卡">日常打卡</h5><p>【工作学习卡】</p><p>计分：每小时0.1分，打卡成绩=时长×天数×稳定度 时长：以 h 计，0-24h天数：无上限 稳定度：0-1，每三日更新一次。 兑换：结账：每过一节气结账一次，少于三日的不计。 一节气总额≈2.4×15×1=36</p><p>工作学习分未达100分，要打兴趣愿望卡，每季度需预支225分；工作学习分达100分，可免费打兴趣愿望卡。</p><p>【兴趣愿望卡】 计分：每小时1分 时长：以 h 计，0-24h 天数：无上限稳定度：0-1，每三日更新一次。 兑换：结账：每过一节气结账一次，少于三日的不计。 一节气总额≈24×15×1=360</p><h5 id="成就达成">成就达成</h5><h4 id="计分">计分</h4><p>+1--取得新成就的状态 -1--荒废的状态 *--中间态</p><h4 id="奖励">奖励</h4><p>最终得分 = 日常打卡（50%）+成就达成（50%）</p><h3 id="aps">APS</h3><p>见 http://47.113.199.87/2023/01/29/aps/</p><h3 id="a-trait-test">A trait Test</h3><h5 id="不是隐私的原因">不是隐私的原因</h5><ul><li>学校某种强制措施间接导致作业公布</li><li>……</li></ul><h2 id="奖项设置">奖项设置</h2><p>奖励：果酱</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="design-intro-笔记体系介绍">DESIGN INTRO 笔记体系介绍</h1><h2 id="色系名称">色系名称</h2><p>past future perfect continuous tense</p><h2 id="配色灵感">配色灵感</h2><p>仙蒂瑞拉公主+傍晚的霞雾</p><h2 id="语法">语法</h2><h3 id="writer">writer</h3><h3 id="reader">reader</h3>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<h2 id="语法支持">语法支持</h2><ul><li>markdown</li><li>timemark</li></ul><h1 id="笔记体系介绍"><a href="/writing/design/">笔记体系介绍</a></h1>]]></content>
     
   </entry>
   
