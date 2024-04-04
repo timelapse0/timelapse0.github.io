@@ -166,33 +166,11 @@
   
   
   <entry>
-    <title>📜 公告</title>
+    <title>😀 Hello!</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<ul><li>【Timelapse 介绍】文件会不定期更新</li></ul><h2 id="docs">docs</h2><h3 id="绘梦计划">🚩绘梦计划</h3><ul><li>欢迎参与组织网站的编辑与排版。所有对组织网站有贡献者会在贡献榜里展示</li></ul><h3 id="入会填写">📃 入会填写</h3><h4 id="申请表主要是自我介绍">申请表（主要是自我介绍）</h4><ul><li>新成员和已加入一段时间的会员都可以投稿</li><li>自我介绍的内容可以未来放维基里，也可以保密作档案</li></ul><p>申请表如下，如有修改意见欢迎提出。 <ahref="https://docs.qq.com/doc/DZWNCU0FrWm9vWXFN">【腾讯文档】申请表格式</a></p><h4 id="section"></h4><p><ahref="https://docs.qq.com/form/page/DZXFQdEllaEdYak5Y">【腾讯文档】成员意向及信息收集表</a></p><p><ahref="https://docs.qq.com/form/page/DZXJ4VkxJTVprRG9q">【腾讯文档】组织奖励意向统计</a></p><p>包括但不限于组织构想、兴趣、职务、回馈等等方面。</p><h3 id="各项征集">各项征集</h3><p><ahref="https://docs.qq.com/form/page/DZXhnenRLTWtSdFNZ">【腾讯文档】网页外表倾向收集表</a></p>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title></title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<script>    $('#subtitle').attr('data-typed-text','于我，于你，于世界，于未来')</script><h1id="安得广厦千万间大地寒士俱欢颜">安得广厦千万间，大地寒士俱欢颜。</h1><h3 id="secret-society">secret society</h3><p>Timelapse 是一个以梦想、科学、乐趣为核心的社会组织。</p><p>我们追寻一个问题——How to live。</p><p>我们尊重思想，剥伪求真，崇尚多元，向往自由，剑指星空。</p><p>我们推崇自我管理，渴望破信息孤岛，打造知识共享新环境。</p><blockquote><p>品味云端之趣<br />求索万物之理<br />雕筑天国之桥<br />拨见来日之曦</p></blockquote><p>如果你也是风中追寻星空的旅者，请收下这封来自 Timelapse 的邀请函。</p><p>Our tale begins where stars exist.</p><h2 id="contact">contact</h2><p>创始人邮箱： messmess2019@outlook.com</p><h2 id="whats-special">what's special</h2><p>Science, Interest, Dream</p>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>橘迹</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<!--<script>accesscode = prompt("橘子喜欢开玩笑吗？（yes/no）（注：请不要太在意此问题的答案）","");if (accesscode != "no"){alert("You are not allowed to access this page.");window.location.href='https://utopiapublishinghouse.github.io/404';}else{//window.location.href='';alert("hello!");}</script>--><style>    #vcomments{    }    .vwrap{        background:#fff;        box-shadow:rgba(40,20,10,0.3) 5px 5px 10px 0;    }    .vempty{        display:none !important    }</style><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments1"></div><script> new Valine({   el: '#vcomments1',   appId: 'y6DDXiU4VwqXv54GWTFJs66H-gzGzoHsz',   appKey: 'AppKeyzgTxGJftSg4XAGHljwq8dybb',  avatar: 'retro',  placeholder: '来呀快来交流啊~注意：名字里请勿带 juice',  emojiCDN: 'https://timelapse0.github.io/emoticon/' ,  emojiMaps: {  'allright':'a/a-allright.png',  'catdog':'a/a-catdog.png',  'confused':'a/a-confused.png',  'emm':'a/a-emm.png',  'huh':'a/a-huh.png',  'tears':'a/a-tears.png',  'water-mouth':'a/a-water-mouth.png',  'yjsy':'a/a-yjsy.png'  }  }) </script>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>Welcome to Timelapse! This is your very first adventure, hh. Check <ahref="/docs/">details</a> for more info. If you get any problems whensurfing here, you can ask us on <a href="/forum/">forum</a>.</p></blockquote><h2 id="内部公告">🍈 内部公告</h2><p>移步 <a href="/basement/">地下室</a></p><h4 id="question">question</h4><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments2"></div><script> new Valine({   el: '#vcomments2',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '#对组织的哪点最感兴趣'  }) </script><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments1"></div><script> new Valine({   el: '#vcomments1',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '快来和大家打成一片'  }) </script>]]></content>
     
   </entry>
   
@@ -221,22 +199,22 @@
   
   
   <entry>
-    <title>地下室</title>
+    <title>橘迹</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h4 id="项目申请">🥪 项目申请</h4><p>（待更新）</p>]]></content>
+    <content type="html"><![CDATA[<!--<script>accesscode = prompt("橘子喜欢开玩笑吗？（yes/no）（注：请不要太在意此问题的答案）","");if (accesscode != "no"){alert("You are not allowed to access this page.");window.location.href='https://utopiapublishinghouse.github.io/404';}else{//window.location.href='';alert("hello!");}</script>--><style>    #vcomments{    }    .vwrap{        background:#fff;        box-shadow:rgba(40,20,10,0.3) 5px 5px 10px 0;    }    .vempty{        display:none !important    }</style><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments1"></div><script> new Valine({   el: '#vcomments1',   appId: 'y6DDXiU4VwqXv54GWTFJs66H-gzGzoHsz',   appKey: 'AppKeyzgTxGJftSg4XAGHljwq8dybb',  avatar: 'retro',  placeholder: '来呀快来交流啊~注意：名字里请勿带 juice',  emojiCDN: 'https://timelapse0.github.io/emoticon/' ,  emojiMaps: {  'allright':'a/a-allright.png',  'catdog':'a/a-catdog.png',  'confused':'a/a-confused.png',  'emm':'a/a-emm.png',  'huh':'a/a-huh.png',  'tears':'a/a-tears.png',  'water-mouth':'a/a-water-mouth.png',  'yjsy':'a/a-yjsy.png'  }  }) </script>]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>标题</title>
+    <title></title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<script>    $('#subtitle').attr('data-typed-text','于我，于你，于世界，于未来')</script><h3 id="secret-society">secret society</h3><p>Timelapse 是一个以梦想、科学、乐趣为核心的社会组织。</p><p>我们追寻一个问题——How to live。</p><p>我们尊重思想，剥伪求真，崇尚多元，向往自由，剑指星空。</p><p>我们推崇自我管理，渴望破信息孤岛，打造知识共享新环境。</p><blockquote><p>品味云端之趣<br />求索万物之理<br />雕筑天国之桥<br />拨见来日之曦</p></blockquote><p>如果你也是风中追寻星空的旅者，请收下这封来自 Timelapse 的邀请函。</p><p>Our tale begins where stars exist.</p><h2 id="contact">contact</h2><p>创始人邮箱： messmess2019@outlook.com</p>]]></content>
     
   </entry>
   
@@ -265,22 +243,33 @@
   
   
   <entry>
-    <title>愿景与展望</title>
+    <title>地下室</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>人来人往，<br />但 温柔的陌生人让我停下了脚步。</p><p>We appear and disappear. We're just…… passing through. But we mean somuch to some people.</p><style>    #vcomments{    background:lightyellow !important;    color:#9AA6C1 !important;    border-radius:4px !important;    border:none;    box-shadow:rgba(255,245,243,0.5) 2px 2px 10px !important;    }    .vempty{        display:none !important    }</style>]]></content>
+    <content type="html"><![CDATA[<h4 id="项目申请">🥪 项目申请</h4><p>（待更新）</p>]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>详细介绍</title>
+    <title>📜 公告</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h2 id="萌新指北">萌新指北</h2><p>（供新成员参考，有待更新）</p><h2 id="组织构成">组织构成</h2><pre><code class=" mermaid">graph RL先锋--救世会--&gt;Timelapse 科学--wonder --&gt;Timelapse乐趣--云品--&gt;Timelapse</code></pre><h2 id="项目">项目</h2><p>详情见<a href="/docs/project">项目</a></p><h2 id="网页浏览">网页浏览</h2><h5 id="快捷键">快捷键</h5><p>/c 自定义（未设置） /m 打开世界观地图 /v 快速通道</p><h2 id="写作">写作</h2><p>详情见<a href="/docs/writing">写作</a></p>]]></content>
+    <content type="html"><![CDATA[<ul><li>【Timelapse 介绍】文件会不定期更新</li></ul><h2 id="docs">docs</h2><h3 id="绘梦计划">🚩绘梦计划</h3><ul><li>欢迎参与组织网站的编辑与排版。所有对组织网站有贡献者会在贡献榜里展示</li></ul><h3 id="入会填写">📃 入会填写</h3><h4 id="申请表主要是自我介绍">申请表（主要是自我介绍）</h4><ul><li>新成员和已加入一段时间的会员都可以投稿</li><li>自我介绍的内容可以未来放维基里，也可以保密作档案</li></ul><p>申请表如下，如有修改意见欢迎提出。 <ahref="https://docs.qq.com/doc/DZWNCU0FrWm9vWXFN">【腾讯文档】申请表格式</a></p><h4 id="section"></h4><p><ahref="https://docs.qq.com/form/page/DZXFQdEllaEdYak5Y">【腾讯文档】成员意向及信息收集表</a></p><p><ahref="https://docs.qq.com/form/page/DZXJ4VkxJTVprRG9q">【腾讯文档】组织奖励意向统计</a></p><p>包括但不限于组织构想、兴趣、职务、回馈等等方面。</p><h3 id="各项征集">各项征集</h3><p><ahref="https://docs.qq.com/form/page/DZXhnenRLTWtSdFNZ">【腾讯文档】网页外表倾向收集表</a></p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>愿景与展望</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p>人来人往，<br />但 温柔的陌生人让我停下了脚步。</p><p>We appear and disappear. We're just…… passing through. But we mean somuch to some people.</p><style>    #vcomments{    background:lightyellow !important;    color:#9AA6C1 !important;    border-radius:4px !important;    border:none;    box-shadow:rgba(255,245,243,0.5) 2px 2px 10px !important;    }    .vempty{        display:none !important    }</style>]]></content>
     
   </entry>
   
@@ -298,22 +287,22 @@
   
   
   <entry>
-    <title>😀 Hello!</title>
+    <title>详细介绍</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<blockquote><p>Welcome to Timelapse! This is your very first adventure, hh. Check <ahref="/docs/">details</a> for more info. If you get any problems whensurfing here, you can ask us on <a href="/forum/">forum</a>.</p></blockquote><h2 id="内部公告">🍈 内部公告</h2><p>移步 <a href="/basement/">地下室</a></p><h4 id="question">question</h4><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments2"></div><script> new Valine({   el: '#vcomments2',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '#对组织的哪点最感兴趣'  }) </script><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments1"></div><script> new Valine({   el: '#vcomments1',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '快来和大家打成一片'  }) </script>]]></content>
+    <content type="html"><![CDATA[<h2 id="萌新指北">萌新指北</h2><p>（供新成员参考，有待更新）</p><h2 id="组织构成">组织构成</h2><pre><code class=" mermaid">graph RL先锋--救世会--&gt;Timelapse 科学--wonder --&gt;Timelapse乐趣--云品--&gt;Timelapse</code></pre><h2 id="项目">项目</h2><p>详情见<a href="/docs/project">项目</a></p><h2 id="网页浏览">网页浏览</h2><h5 id="快捷键">快捷键</h5><p>/c 自定义（未设置） /m 打开世界观地图 /v 快速通道</p><h2 id="写作">写作</h2><p>详情见<a href="/docs/writing">写作</a></p>]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>征稿</title>
+    <title>标题</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p><spanstyle="font-weight:400;color:white;background:#00cc00;padding:0.4rem 1rem; display:inline-block;border-radius:20px; box-shadow:rgba(0, 0, 0,0.3) 4px 4px 6px;margin-right:0.5rem;margin-left:2rem;"><strong>征集中</strong></span></p>]]></content>
+    <content type="html"><![CDATA[]]></content>
     
   </entry>
   
@@ -331,22 +320,11 @@
   
   
   <entry>
-    <title>项目进度</title>
+    <title>征稿</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<style>.row{margin-left:auto;margin-right:auto;margin-bottom:20px;}.row:after{content:"";display:table;clear:both}.row .col{float:left;-webkit-box-sizing:border-box;box-sizing:border-box;padding:0 .75rem;min-height:1px}.row .col.s12{width:100%;margin-left:auto;left:auto;right:auto}.row .col.m6{width:50%;margin-left:auto;left:auto;right:auto}.row .col.l6{width:50%;margin-left:auto;left:auto;right:auto}.my-skills{    margin-top: 2rem;}.title,.my-skills .title{    font-size: 2rem;    margin-bottom: 2.25rem;    }.my-skills .skillbar {    width: 360px;    position: relative;    display: block;    margin: 15px auto;    background: #eee;    height: 30px;    border-radius: 35px;    -moz-border-radius: 35px;    -webkit-border-radius: 35px;    -webkit-transition: 0.4s linear;    -moz-transition: 0.4s linear;    -o-transition: 0.4s linear;    transition: 0.4s linear;    -webkit-transition-property: width, background-color;    -moz-transition-property: width, background-color;    -o-transition-property: width, background-color;    transition-property: width, background-color;}.skillbar .skillbar-title {    position: absolute;    top: 0;    left: 0;    width: 110px;    font-size: 0.9rem;    color: #ffffff;    border-radius: 35px;    -webkit-border-radius: 35px;    -moz-border-radius: 35px;}.skillbar .skillbar-title span {    display: block;    background: rgba(0, 0, 0, 0.15);    padding: 0 20px;    width: fit-content;    height: 30px;    line-height: 30px;    border-radius: 35px;    -webkit-border-radius: 35px;    -moz-border-radius: 35px;}.skillbar .skill-bar-percent {    position: absolute;    right: 10px;    top: 0;    font-size: 12px;    height: 30px;    line-height: 30px;    color: #ffffff;    color: rgba(0, 0, 0, 0.5);}.container>.row>.col{  display: none;}</style><div class="my-skills"><div class="title center-align" data-aos="zoom-in-up"><i class="fas fa-glass-whiskey"></i>  项目进度</div><div class="row"></div></div><script>var mySkills = [  {'title': '',    'background': 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)',    'percent': '0%'},  {'title': '',    'background': 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)',    'percent': '0%'},  {'title': 'Cloud Petting',    'background': 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)',    'percent': '0%'},  {'title': 'wonder',    'background': 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)',    'percent': '0%'},  {'title': 'DBG',    'background': 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)',    'percent': '33%'}];for(i = 0; i < mySkills.length; i++){$('.row').append('<div class="col s12 m6 l6"><div class="skillbar"><div class=\"skillbar-title\" style=\"background:' +mySkills[i].background +';width:' +mySkills[i].percent +'\"><span>'+mySkills[i].title+'</span></div><div class=\"skill-bar-percent\">'+mySkills[i].percent+'</div></div></div>')}</script>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>圆桌</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<p>鼓励平等友善的评论。</p><p>（分类：issues/……）</p><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '格式：【分类】正文'  }) </script>]]></content>
+    <content type="html"><![CDATA[<p><spanstyle="font-weight:400;color:white;background:#00cc00;padding:0.4rem 1rem; display:inline-block;border-radius:20px; box-shadow:rgba(0, 0, 0,0.3) 4px 4px 6px;margin-right:0.5rem;margin-left:2rem;"><strong>征集中</strong></span></p>]]></content>
     
   </entry>
   
@@ -364,33 +342,11 @@
   
   
   <entry>
-    <title>职位</title>
+    <title>项目进度</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h3 id="组织技术人员报名">组织技术人员报名</h3><p>途径：【腾讯文档】https://docs.qq.com/form/page/DZVp0cnlZcnJDUFVW</p><h3 id="宣传人员">宣传人员</h3><p>工作：发布宣传内容</p><p>场所： - 组织官网 - 百度贴吧 - 公众号 - DRRR 休息室 - drrrwiki -等</p><h4 id="工资">工资</h4><p>日常维护 1T/天 宣传日 6T/天</p><h4 id="排版">排版</h4><p>30￥/10000字</p><h3 id="活动策划">活动策划</h3><h4 id="具体工作">具体工作</h4><h5 id="考虑">考虑</h5><ul><li>场地</li><li>主题</li><li>人员</li><li>节奏</li><li>奖励</li></ul>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title></title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<h1 id="design-intro-笔记体系介绍">DESIGN INTRO 笔记体系介绍</h1><h2 id="色系名称">色系名称</h2><p>past future perfect continuous tense</p><h2 id="配色灵感">配色灵感</h2><p>仙蒂瑞拉公主+傍晚的霞雾</p><h2 id="语法">语法</h2><h3 id="writer">writer</h3><h3 id="reader">reader</h3>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title></title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<h4 id="追求">追求</h4><p>趣味 情调 随心写作 自由表达</p><h4 id="要求">要求</h4><p>确保无论使用什么社交平台的人都可以云养</p><h4 id="云养项目计划内容">云养项目计划内容</h4><h5 id="每日云养">每日云养</h5><ul><li>猫粮领取</li><li>线上养成游戏</li><li>每日喂猫、撸猫 需要实现的功能： 猫咪迎接的状态随机在不同位置用不同力度抚摸猫咪会有相应反应（live2d已经实现了一部分） 喂食给猫咪投喂猫咪会有随机的反应 成长 猫咪会随培养时间长大 娱乐猫咪之间可以互动、游戏、竞争 生病（？）</li></ul><h6 id="原稿">原稿</h6><p>比较多变性格 可培养 可竞争</p><p>还有防御值 运气值 随机匹配 赢了成长or有奖</p><p>投喂它也有对应的心情比如每次我去看我的云养，它以不同的性格迎接我甚至消失，出现情况随机投喂它也有对应的心情</p><h5id="猫图分享圈分享视频动图表情包养猫心得猫图">猫图分享圈（分享视频，动图，表情包，养猫心得，猫图）</h5><ul><li>发图求赞</li><li>看图点赞</li></ul><h5id="线上线下合力用户于线上与线下猫互动">线上线下合力，用户于线上与线下猫互动</h5><h5 id="猫历上面展示每周总结">猫历上面展示每周总结</h5><h5 id="文章">文章</h5><h6 id="打击">打击</h6><p>标题党 图片党</p>]]></content>
+    <content type="html"><![CDATA[<style>.row{margin-left:auto;margin-right:auto;margin-bottom:20px;}.row:after{content:"";display:table;clear:both}.row .col{float:left;-webkit-box-sizing:border-box;box-sizing:border-box;padding:0 .75rem;min-height:1px}.row .col.s12{width:100%;margin-left:auto;left:auto;right:auto}.row .col.m6{width:50%;margin-left:auto;left:auto;right:auto}.row .col.l6{width:50%;margin-left:auto;left:auto;right:auto}.my-skills{    margin-top: 2rem;}.title,.my-skills .title{    font-size: 2rem;    margin-bottom: 2.25rem;    }.my-skills .skillbar {    width: 360px;    position: relative;    display: block;    margin: 15px auto;    background: #eee;    height: 30px;    border-radius: 35px;    -moz-border-radius: 35px;    -webkit-border-radius: 35px;    -webkit-transition: 0.4s linear;    -moz-transition: 0.4s linear;    -o-transition: 0.4s linear;    transition: 0.4s linear;    -webkit-transition-property: width, background-color;    -moz-transition-property: width, background-color;    -o-transition-property: width, background-color;    transition-property: width, background-color;}.skillbar .skillbar-title {    position: absolute;    top: 0;    left: 0;    width: 110px;    font-size: 0.9rem;    color: #ffffff;    border-radius: 35px;    -webkit-border-radius: 35px;    -moz-border-radius: 35px;}.skillbar .skillbar-title span {    display: block;    background: rgba(0, 0, 0, 0.15);    padding: 0 20px;    width: fit-content;    height: 30px;    line-height: 30px;    border-radius: 35px;    -webkit-border-radius: 35px;    -moz-border-radius: 35px;}.skillbar .skill-bar-percent {    position: absolute;    right: 10px;    top: 0;    font-size: 12px;    height: 30px;    line-height: 30px;    color: #ffffff;    color: rgba(0, 0, 0, 0.5);}.container>.row>.col{  display: none;}</style><div class="my-skills"><div class="title center-align" data-aos="zoom-in-up"><i class="fas fa-glass-whiskey"></i>  项目进度</div><div class="row"></div></div><script>var mySkills = [  {'title': '',    'background': 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)',    'percent': '0%'},  {'title': '',    'background': 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)',    'percent': '0%'},  {'title': 'Cloud Petting',    'background': 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)',    'percent': '0%'},  {'title': 'wonder',    'background': 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)',    'percent': '0%'},  {'title': 'DBG',    'background': 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)',    'percent': '33%'}];for(i = 0; i < mySkills.length; i++){$('.row').append('<div class="col s12 m6 l6"><div class="skillbar"><div class=\"skillbar-title\" style=\"background:' +mySkills[i].background +';width:' +mySkills[i].percent +'\"><span>'+mySkills[i].title+'</span></div><div class=\"skill-bar-percent\">'+mySkills[i].percent+'</div></div></div>')}</script>]]></content>
     
   </entry>
   
@@ -408,11 +364,55 @@
   
   
   <entry>
+    <title>圆桌</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p>鼓励平等友善的评论。</p><p>（分类：issues/……）</p><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '格式：【分类】正文'  }) </script>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title></title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h2 id="语法支持">语法支持</h2><ul><li>markdown</li><li>timemark</li></ul><h1 id="笔记体系介绍"><a href="/writing/design/">笔记体系介绍</a></h1>]]></content>
+    <content type="html"><![CDATA[<h4 id="追求">追求</h4><p>趣味 情调 随心写作 自由表达</p><h4 id="要求">要求</h4><p>确保无论使用什么社交平台的人都可以云养</p><h4 id="云养项目计划内容">云养项目计划内容</h4><h5 id="每日云养">每日云养</h5><ul><li>猫粮领取</li><li>线上养成游戏</li><li>每日喂猫、撸猫 需要实现的功能： 猫咪迎接的状态随机在不同位置用不同力度抚摸猫咪会有相应反应（live2d已经实现了一部分） 喂食给猫咪投喂猫咪会有随机的反应 成长 猫咪会随培养时间长大 娱乐猫咪之间可以互动、游戏、竞争 生病（？）</li></ul><h6 id="原稿">原稿</h6><p>比较多变性格 可培养 可竞争</p><p>还有防御值 运气值 随机匹配 赢了成长or有奖</p><p>投喂它也有对应的心情比如每次我去看我的云养，它以不同的性格迎接我甚至消失，出现情况随机投喂它也有对应的心情</p><h5id="猫图分享圈分享视频动图表情包养猫心得猫图">猫图分享圈（分享视频，动图，表情包，养猫心得，猫图）</h5><ul><li>发图求赞</li><li>看图点赞</li></ul><h5id="线上线下合力用户于线上与线下猫互动">线上线下合力，用户于线上与线下猫互动</h5><h5 id="猫历上面展示每周总结">猫历上面展示每周总结</h5><h5 id="文章">文章</h5><h6 id="打击">打击</h6><p>标题党 图片党</p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>项目</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<h2 id="具体">具体</h2><h3 id="wonder">wonder</h3><h4 id="希望">希望</h4><p>构建圈子</p><h3 id="云养">云养</h3><p>见 <a href="cyber-petting">cyber-petting</a></p><h3 id="dbg">DBG</h3><p>见 <a href="dbg">DBG</a></p><h3 id="朝暮计划">朝暮计划</h3><h5 id="日常打卡">日常打卡</h5><p>【工作学习卡】</p><p>计分：每小时0.1分，打卡成绩=时长×天数×稳定度 时长：以 h 计，0-24h天数：无上限 稳定度：0-1，每三日更新一次。 兑换：结账：每过一节气结账一次，少于三日的不计。 一节气总额≈2.4×15×1=36</p><p>工作学习分未达100分，要打兴趣愿望卡，每季度需预支225分；工作学习分达100分，可免费打兴趣愿望卡。</p><p>【兴趣愿望卡】 计分：每小时1分 时长：以 h 计，0-24h 天数：无上限稳定度：0-1，每三日更新一次。 兑换：结账：每过一节气结账一次，少于三日的不计。 一节气总额≈24×15×1=360</p><h5 id="成就达成">成就达成</h5><h4 id="计分">计分</h4><p>+1--取得新成就的状态 -1--荒废的状态 *--中间态</p><h4 id="奖励">奖励</h4><p>最终得分 = 日常打卡（50%）+成就达成（50%）</p><h3 id="a-trait-test">A trait Test</h3><h5 id="不是隐私的原因">不是隐私的原因</h5><ul><li>学校某种强制措施间接导致作业公布</li><li>……</li></ul><h2 id="奖项设置">奖项设置</h2><p>奖励：果酱</p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<h1 id="design-intro-笔记体系介绍">DESIGN INTRO 笔记体系介绍</h1><h2 id="色系名称">色系名称</h2><p>past future perfect continuous tense</p><h2 id="配色灵感">配色灵感</h2><p>仙蒂瑞拉公主+傍晚的霞雾</p><h2 id="语法">语法</h2><h3 id="writer">writer</h3><h3 id="reader">reader</h3>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>职位</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<h3 id="组织技术人员报名">组织技术人员报名</h3><p>途径：【腾讯文档】https://docs.qq.com/form/page/DZVp0cnlZcnJDUFVW</p><h3 id="宣传人员">宣传人员</h3><p>工作：发布宣传内容</p><p>场所： - 组织官网 - 百度贴吧 - 公众号 - DRRR 休息室 - drrrwiki -等</p><h4 id="工资">工资</h4><p>日常维护 1T/天 宣传日 6T/天</p><h4 id="排版">排版</h4><p>30￥/10000字</p><h3 id="活动策划">活动策划</h3><h4 id="具体工作">具体工作</h4><h5 id="考虑">考虑</h5><ul><li>场地</li><li>主题</li><li>人员</li><li>节奏</li><li>奖励</li></ul>]]></content>
     
   </entry>
   
@@ -441,11 +441,11 @@
   
   
   <entry>
-    <title>项目</title>
+    <title></title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h2 id="具体">具体</h2><h3 id="wonder">wonder</h3><h4 id="希望">希望</h4><p>构建圈子</p><h3 id="云养">云养</h3><p>见 <a href="cyber-petting">cyber-petting</a></p><h3 id="dbg">DBG</h3><p>见 <a href="dbg">DBG</a></p><h3 id="朝暮计划">朝暮计划</h3><h5 id="日常打卡">日常打卡</h5><p>【工作学习卡】</p><p>计分：每小时0.1分，打卡成绩=时长×天数×稳定度 时长：以 h 计，0-24h天数：无上限 稳定度：0-1，每三日更新一次。 兑换：结账：每过一节气结账一次，少于三日的不计。 一节气总额≈2.4×15×1=36</p><p>工作学习分未达100分，要打兴趣愿望卡，每季度需预支225分；工作学习分达100分，可免费打兴趣愿望卡。</p><p>【兴趣愿望卡】 计分：每小时1分 时长：以 h 计，0-24h 天数：无上限稳定度：0-1，每三日更新一次。 兑换：结账：每过一节气结账一次，少于三日的不计。 一节气总额≈24×15×1=360</p><h5 id="成就达成">成就达成</h5><h4 id="计分">计分</h4><p>+1--取得新成就的状态 -1--荒废的状态 *--中间态</p><h4 id="奖励">奖励</h4><p>最终得分 = 日常打卡（50%）+成就达成（50%）</p><h3 id="a-trait-test">A trait Test</h3><h5 id="不是隐私的原因">不是隐私的原因</h5><ul><li>学校某种强制措施间接导致作业公布</li><li>……</li></ul><h2 id="奖项设置">奖项设置</h2><p>奖励：果酱</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="语法支持">语法支持</h2><ul><li>markdown</li><li>timemark</li></ul><h1 id="笔记体系介绍"><a href="/writing/design/">笔记体系介绍</a></h1>]]></content>
     
   </entry>
   
