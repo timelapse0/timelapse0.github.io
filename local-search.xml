@@ -4,6 +4,45 @@
   
   
   <entry>
+    <title>介绍文档</title>
+    <link href="/Daily-Progress.html"/>
+    <url>/Daily-Progress.html</url>
+    
+    <content type="html"><![CDATA[<h3 id="组织回馈">组织回馈</h3><h4 id="基本任务达成奖励">基本任务达成奖励</h4><p>包含日常、活动和项目三大方面。</p><ul><li><p>日常奖励 日常参与组织建设会增加功德。</p></li><li><p>活动奖励 参与 Timelapse 主持的活动会有相应奖励。</p></li><li><p>项目奖励 参与项目开发可获相应奖励，上限较高，包括工资。</p></li></ul><h4 id="荣誉奖励">荣誉奖励</h4><p>荣誉获得条件：</p><p>● 成功实现本人愿望</p><p>● 成功帮助他人实现愿望</p><p>● Timelapse 所办竞赛中获得名次</p><p>Timelapse 所办竞赛中获得名次会有相应奖品。</p><h4 id="奖励形式">奖励形式</h4><h5 id="时光币">时光币</h5><p>时光币可以用来在 Timelapse 商店中购买商品。</p><p>时光币可在 Timelapse 银行兑换等价人民币。</p><h5 id="实体礼品">实体礼品</h5><p>包括来自购物平台的商品和 Timelapse 礼品。</p><h5 id="奖励许愿机会">奖励许愿机会</h5><p>Timelapse 会竭尽全力帮您实现。</p><h5 id="抽奖">抽奖</h5><h5 id="彩蛋">彩蛋</h5><h5 id="赠送纪念品">赠送纪念品</h5><h3 id="道具">道具</h3><p>在时空商店可使用时光币购买各种物品或道具。</p><p>会员也可以在时光银行、拍卖行等地用物品换取时光币。</p><h4 id="爱心">爱心</h4><p>爱心代表支持和喜爱。会员之间可以互相赠送爱心。</p><h4 id="饼干">饼干</h4><p>饼干代表着激励。会员之间可以互相赠送饼干。</p><h4 id="星星">星星</h4><p>星星带来的好处是不定向的，它可能给你带来好运，可能提高你的声望等级，还可能给你的愿望带来助力……</p><h4 id="蜡烛">蜡烛</h4><h4 id="神奇海螺">🐚（神奇海螺）</h4>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>漂流海岸</title>
+    <link href="/%E6%BC%82%E6%B5%81%E6%B5%B7%E5%B2%B8.html"/>
+    <url>/%E6%BC%82%E6%B5%81%E6%B5%B7%E5%B2%B8.html</url>
+    
+    <content type="html"><![CDATA[<style>    #vcomments{    background:lightyellow !important;    color:#9AA6C1 !important;    border-radius:4px !important;    border:none;    box-shadow:rgba(255,245,243,0.5) 2px 2px 10px !important;    }</style><button id="pickup">捡瓶子</button><script>$('#pickup').bind('click',function(){ var n = Math.round(Math.random()*(2-1)+1);$('#valine > div.vcard:nth-child('+n+')').css('display','none !important'); })</script>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>许愿树</title>
+    <link href="/%E8%AE%B8%E6%84%BF%E6%A0%91.html"/>
+    <url>/%E8%AE%B8%E6%84%BF%E6%A0%91.html</url>
+    
+    <content type="html"><![CDATA[<style>    #vcomments,#valine{    background:lightyellow !important;    color:#9AA6C1 !important;    border-radius:4px !important;    border:none;    box-shadow:rgba(255,245,243,0.5) 2px 2px 10px !important;    }    .vempty{        display:none !important    }</style><p>Timelapse 希望创造一个承载每个人梦想的许愿树。</p><p>人人都可以在纸条上写下自己的心愿，挂于许愿树上。</p><p>许愿树将由愿望守护者群体守护，愿望一旦许下，除非愿望实现或本人放弃，纸条将永远伴随许愿树。阻碍他人实现愿望的人，会被授予严厉的惩罚。</p><p>许愿者可通过交换等价的物品，在愿望守护者的帮助下实现自己的愿望；可交价值次于愿望的物品，或者不交予物品，等待愿望的实现机会。</p><p>许愿者积极作为，许愿树神将有所感应，助力愿望的实现。</p><p>除了等价交换者，被实现愿望的人必须担当临时愿望守护者，帮助另一人实现愿望。</p><p>自愿担任愿望守护者会加功德。</p><p>愿望的实现由相应守护者宣布。每当一个愿望实现时，许愿者要选择【满意】还是【不满】，表示【满意】，负责该愿望的守护者将获得一个【爱心】，反之是一滴【泪水】。</p><p>一个【爱心】加一点功德，一滴【泪水】减一点功德。</p><h3 id="流星神话">流星神话</h3><p>传说，奥丁有一把世界树枝条打造的“永恒之枪”冈格尼尔（Gungnir，意为“贯穿”）。这矛是神圣的，对矛尖所发的誓，永不能反悔而且必将实现。投射时宛若流星划破天际，又名流星之枪。对着冈格尼尔发誓的人，誓言必将实现。这也许就是对着流星许愿的由来。Greenland上的住民都希望某一天能看到流星降临。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>拾穗 Glean</title>
     <link href="/Glean/index.html"/>
     <url>/Glean/index.html</url>
@@ -170,6 +209,19 @@
   
   
   
+  <entry>
+    <title>朝暮计划</title>
+    <link href="/Daily-Progress.html"/>
+    <url>/Daily-Progress.html</url>
+    
+    <content type="html"><![CDATA[<h3 id="功德">【功德】</h3><p>功德，顾名思义由功劳和品德组成。</p><p>功德是一种经验值，是 Timelapse 考量成员的关键属性。</p><p>功德分为看得见的功德和看不见的功德。<br />看得见的功德算作会员的声望，具有直接价值和间接价值。<br />看不见的功德具有潜在价值。</p><h3 id="如何攒功德">如何攒功德</h3><h4 id="社区建设">社区建设</h4><p>● 参与讨论</p><p>● 有效反馈</p><p>● 有效举报</p><h4 id="公共编辑">公共编辑</h4><p>如编辑维基。考量文字质量和编辑量。</p><h5 id="贡献">【贡献】</h5><p>是指成员对组织网站、维基中的内容创作。</p><p>贡献是功德的组成之一。</p><h5 id="维基">维基</h5><p>● 历史记忆</p><p>● 成员人设</p><p>● 创意想法</p><p>● 等</p><h4 id="个人成就达成">个人成就达成</h4><p>条件：会员完成了自己的某件事情，或提升了自己，或提高了成就感，或对社会做出了贡献，同时对自我实现有利。</p><p>示例：</p><p>● 小成就达成</p><p>● 对写作获得新领悟</p><p>● 击败人生苦难</p><p>● 完成现实作品</p><p>无论是好书的一页阅读还是决定梦想实现的关键一步，只要在人生的成长奋斗道路上多迈出一步，就是一次个人成就的达成。</p><h5 id="现实作品创作">现实作品创作</h5><p>完成了一项有价值的作品，可申请加功德分。上限较高。</p><p>考察维度：</p><p>● 趣味</p><p>● 深度</p><p>● 实用价值与艺术价值</p><p>● 创新</p><h4id="独自完成组织任务或参与完成团体任务">独自完成组织任务或参与完成团体任务</h4><p>据具体情况加功德分。</p><h4 id="帮助他人实现愿望">帮助他人实现愿望</h4><h3 id="计分规则">计分规则</h3><p>最终得分 = 日常打卡（50%） + 成就达成（50%）</p><table><thead><tr class="header"><th>记号</th><th>状态</th></tr></thead><tbody><tr class="odd"><td>+</td><td>有效利用</td></tr><tr class="even"><td>*</td><td>不确定</td></tr><tr class="odd"><td>0</td><td>荒废</td></tr></tbody></table><h4 id="日常打卡">日常打卡</h4><table><thead><tr class="header"><th>【工作学习卡】</th><th>打卡成绩 = 时长×天数×稳定度</th></tr></thead><tbody><tr class="odd"><td>时长</td><td>以 h 计，0-24h，0.1分/h</td></tr><tr class="even"><td>天数</td><td>无上限</td></tr><tr class="odd"><td>稳定度</td><td>0-1，每三日更新一次。</td></tr><tr class="even"><td>结账</td><td>每过一节气结账一次，少于三日的不计。</td></tr><tr class="odd"><td>一节气总额</td><td>≈ 2.4(/d)×15(/st)=36</td></tr></tbody></table><p>【注意】</p><ul><li>工作学习分 ＜ 100 分：要打兴趣愿望卡，每季度需预支 225 分；</li><li>工作学习分 ≥ 100 分：可免费打兴趣愿望卡。</li></ul><table><thead><tr class="header"><th>【兴趣愿望卡】</th><th>打卡成绩 = 时长×天数×稳定度</th></tr></thead><tbody><tr class="odd"><td>时长</td><td>以 h 计，0-24h，1分/h</td></tr><tr class="even"><td>天数</td><td>无上限</td></tr><tr class="odd"><td>稳定度</td><td>0-1，每三日更新一次。</td></tr><tr class="even"><td>结账</td><td>每过一节气结账一次，少于三日的不计。</td></tr><tr class="odd"><td>一节气总额</td><td>≈ 24(/d)×15(/st)=360</td></tr></tbody></table><h4 id="成就达成">成就达成</h4><table><thead><tr class="header"><th>状态</th><th>计分</th></tr></thead><tbody><tr class="odd"><td>取得新成就</td><td>0～+∞</td></tr></tbody></table>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
   
   
   
@@ -179,39 +231,6 @@
     <url>/</url>
     
     <content type="html"><![CDATA[<h3 id="优秀建议悬赏">🔮 优秀建议悬赏</h3><blockquote><p> 悬赏金额会随时间变动。</p></blockquote><blockquote><p> 每项最后面的为被采纳的基础回馈。</p></blockquote><blockquote><p>回馈记录由时光银行记录，今年12月份可进行实体兑换。</p></blockquote><table><thead><tr class="header"><th>悬赏对象 ⏳</th><th>悬赏金额 💵</th></tr></thead><tbody><tr class="odd"><td>崭新的 Timelapse 邀请函</td><td>1时光币</td></tr><tr class="even"><td>问题6</td><td>≥36沙币</td></tr><tr class="odd"><td>问题7</td><td>&gt;6沙币</td></tr><tr class="even"><td>入会入群方式</td><td>&gt;6沙币/壁纸</td></tr><tr class="odd"><td>项目申请</td><td>&gt;30沙币</td></tr><tr class="even"><td>问题10</td><td>≥6沙币/壁纸</td></tr><tr class="odd"><td>问题11</td><td>≥6沙币/壁纸</td></tr></tbody></table>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>📜 公告</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<ul><li>【Timelapse 介绍】文件会不定期更新</li></ul><h2 id="docs">docs</h2><h3 id="绘梦计划">🚩绘梦计划</h3><ul><li>欢迎参与组织网站的编辑与排版。所有对组织网站有贡献者会在贡献榜里展示</li></ul><h3 id="入会填写">📃 入会填写</h3><h4 id="申请表主要是自我介绍">申请表（主要是自我介绍）</h4><ul><li>新成员和已加入一段时间的会员都可以投稿</li><li>自我介绍的内容可以未来放维基里，也可以保密作档案</li></ul><p>申请表如下，如有修改意见欢迎提出。 <ahref="https://docs.qq.com/doc/DZWNCU0FrWm9vWXFN">【腾讯文档】申请表格式</a></p><h4 id="section"></h4><p><ahref="https://docs.qq.com/form/page/DZXFQdEllaEdYak5Y">【腾讯文档】成员意向及信息收集表</a></p><p><ahref="https://docs.qq.com/form/page/DZXJ4VkxJTVprRG9q">【腾讯文档】组织奖励意向统计</a></p><p>包括但不限于组织构想、兴趣、职务、回馈等等方面。</p><h3 id="各项征集">各项征集</h3><p><ahref="https://docs.qq.com/form/page/DZXhnenRLTWtSdFNZ">【腾讯文档】网页外表倾向收集表</a></p>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>我们↘就↙是↖会员↗</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<divstyle="background:#effff9;border-radius:40px;width:90%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px"><h3 style="background:#FA8072;color:white;display:inline-block;font-size:0.9rem;padding:0.4rem 0.8rem;border-radius:8px;box-shadow: 2px 2px 6px 0 rgba(0, 0, 0, 0.3);"><strong>活动</strong> <spanstyle="font-weight:600;font-size:140%;color:transparent;background:transparent;background-clip:text;background-image: linear-gradient(to bottom right,pink, yellow);-webkit-background-clip:text;background-image: webkit-linear-gradient(to bottom right,pink, yellow);">会员明信片征集！</span></h3><p>戳<a href="https://docs.qq.com/doc/DZVJHZlhWWkZUVWlu"><spanstyle="font-weight:400;color:white !important;background:#00cc00;padding:0.4rem 1rem; display:inline-block;border-radius:20px; box-shadow:rgba(0, 0, 0,0.3) 4px 4px 6px;margin-right:0rem;margin-left:0.5rem;">会员信息注册表</span></a>将自己的卡片贴上明信片墙 <i class="iconfont icon-to-do"></i></p><p>##移动端以后再看吧 表格排版不好排</p></div><spanstyle="font-weight:400;color:white;background:#00cc00;padding:0.4rem 1rem; display:inline-block;border-radius:20px; box-shadow:rgba(0, 0, 0,0.3) 4px 4px 6px;margin-left:2rem;"><strong>示例</strong></span><div id="div0"style="background:#fffcf9;width:90%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px"><table><thead><tr class="header"><th>头像</th><th>自我介绍</th></tr></thead><tbody><tr class="odd"><td><img src="http://localhost:4000/img/default.png" /></td><td>一句话介绍</td></tr><tr class="even"><td><strong>名字</strong></td><td><span class="tag">#标签1 </span><span class="tag">#标签2</span>#标签3</td></tr><tr class="odd"><td>参考项</td><td><span style="font-size:0.9rem;"><spanstyle="padding-bottom:0px;box-shadow:#6b67e442 0px -8px 0px inset">个人信息</span>/姓名/昵称/性别/身高/体重/<spanstyle="padding-bottom:0px;box-shadow:#12fa4c1a 0px -10px 0px inset">生日</span>/血型/<br><spanstyle="padding-bottom:0px;box-shadow:#f3fa12ba 0px -6px 0px inset">坐标</span>/家乡/想去的地方/专业/职业/机构/学校/<br>自我介绍/<spanstyle="padding-bottom:0px;box-shadow:#5fd4f030 0px -6px 0px inset">一句话介绍</span>/性格/<spanstyle="padding-bottom:0px;box-shadow:#cffa564a 0px -6px 0px inset">兴趣爱好</span>/特长/<br>日常活跃时间/<spanstyle="padding-bottom:0px;box-shadow:#8c2b7824 0px -6px 0px inset">联系方式</span>/常驻网络平台/常用马甲/<br>人际关系/CP/人生经历介绍/任职经历/<br><spanstyle="padding-bottom:0px;box-shadow:#f4eae187 0px -6px 0px inset">个人理想</span>/入会宣言/座右铭/想法/标签/<br><spanstyle="padding-bottom:0px;box-shadow:#f6210a52 0px -8px 0px inset">人设</span>/本体/外表/武力值/技能/职业/其他设定……</span></td></tr><tr class="even"><td>生日</td><td></td></tr><tr class="odd"><td><span style="color:#333;">坐标</span></td><td></td></tr><tr class="even"><td>兴趣</td><td></td></tr><tr class="odd"><td>入会宣言</td><td></td></tr><tr class="even"><td>一句话介绍</td><td></td></tr><tr class="odd"><td>……</td><td></td></tr><tr class="even"><td><span style="color:#e5cd94f0">印象（他人评价）</span></td><td></td></tr><tr class="odd"><td><spanstyle="padding-bottom:0px;box-shadow:#f6210a29 0px -14px 0px inset;display:block;width:3rem;margin-left:2.5rem"><strong>人设</strong></span></td><td></td></tr></tbody></table><p><spanstyle="display:block;margin-right:-0.5rem;margin-bottom:-3rem;text-align:right;margin-top:2rem;">00/00/00</span></p></div><divstyle="background:#f4fcf9;width:90%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px"><p><strong>会员明信片墙</strong><br />自我介绍啥的一定要自己写☆</p></div><!--<h2 style='color:#000;padding-left:2rem;'>**职位介绍**</h2><span style="font-weight:400;color:white;background:#00cc00;padding:0.4rem 1rem; display:block;border-radius:20px; box-shadow:rgba(0, 0, 0,0.3) 4px 4px 6px;margin-right:4rem;margin-left:2rem;"></span><div style="display:inline-block;background:#fffff9;width:40%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px">  <i class="iconfont icon-a-IdeaTechnology"></i> **脑力部**    <i class="iconfont icon-Chat-User"></i> 构思人员    <i class="iconfont icon-admin"></i> 策划人员    <i class="iconfont icon-huiyishi"></i> 【议事厅成员】<i class="iconfont icon-a-ITziyuan2"></i> **信息与编辑部**    <i class="iconfont icon-resource"></i> 【资料库管理员】    <i class="iconfont icon-PeopleSearch-1"></i> 资料搜集与整理人员    <i class="iconfont icon-user-edit"></i> 编辑人员    <i class="iconfont icon-shenheyuan"></i> 审核人员    <i class="iconfont icon-jishuchuangxinhezhiliangfuwu"></i> **管理与技术部**    <i class="iconfont icon-user-cog"></i> 技术人员     <i class="iconfont icon-user-shield"></i> 管理人员  </div><div style="display:inline-block;background:#fffff9;width:40%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px">  <i class="iconfont icon-government"></i> **人事部**    <i class="iconfont icon-kehufuwuguanli"></i> 调解人员     <i class="iconfont icon-a-bianzu50"></i> 监督人员    <i class="iconfont icon-doors"></i> **人力部**     <i class="iconfont icon-a-grg-line-usersays"></i> 宣传人员    <i class="iconfont icon-user-headset"></i> 咨询人员    <i class="iconfont icon-user-friends"></i> 机动人员  <i class="iconfont icon-user-secret"></i> **编外**    <i class="iconfont icon-book-open-reader"></i> 学者     <i class="iconfont icon-student"></i> 学生     <i class="iconfont icon-laorenguanli"></i> 养老人员    </div><div style="background:#fffcf9;width:90%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px">||||---|---||![](http://localhost:4000/img/default.png)|<span style='color:#888;font-weight:700;'>一句话介绍<br>What's Up<br><br></span>流浪的，稻草人。  生活在空中，仰望天空。   |<span style='font-size:1.2rem'>    <i class="iconfont icon-jishuchuangxinhezhiliangfuwu"></i> <i class="iconfont icon-user-edit"></i> **橘子**</span>|#行动的矮子 #见识浅薄|<span style='font-size:0.9rem;color:#333;font-weight:600;'>生日</span>| 一个冬天<span style='font-size:0.9rem;color:#333;font-weight:600;'>坐标</span> | 不告诉你<span style='font-size:0.9rem;color:#333;font-weight:600;'>诞生地</span>| 安徽-皖西<span style='font-size:0.9rem;padding-bottom:0px;box-shadow:#f6210a29 0px -14px 0px inset;display:block;width:4.5rem;margin-left:3rem;color:#444;'>**兴趣爱好**</span>| <span style='color:#5d6876f5'><span class='tag'><span class='tag'><span class='tag'><span class='tag'><span class='tag'>探索世界规律</span><br>思考，阅读，</span><br>看影视作品和动漫，旅游</span><br>绘画和手工 </span><br>跑步，羽毛球</span></span><span style='font-size:0.9rem;display:block;width:10rem;color:#555;font-weight:600;'><s>入会宣言</s> **创会初因**</span> | 让生活变得更快乐<span style='font-size:0.9rem;color:#444;font-weight:600;'>技能</span>| 0<span style='font-size:0.9rem;color:#444;font-weight:600;'>专业/领域</span> | 物理学<span style='display:block;margin-right:-0.5rem;margin-bottom:-3rem;text-align:right;margin-top:2rem;'>2023/7/28</span></div>--><script>$('.tag').each(function(){var n = Math.round(Math.random()*(48-1)+1);if(n==1){c='FA8072'};if(n==2){c='A7D6F1'};if(n==3){c='F08080'};if(n==4){c='5F9EA0'};if(n==5){c='D495EC'};if(n==6){c='FF7F50'};if(n==7){c='B0E0E6'};if(n==8){c='FFD499'};if(n==9){c='8FBC8F'};if(n==10){c='A2DA65'};if(n==11){c='9BCD9B'};if(n==12){c='66CDAA'};if(n==13){c='F5DA81'};if(n==14){c='20B2AA'};if(n==15){c='FFC1E0'};if(n==16){c='ACE1AF'};if(n==17){c='4682B4'};if(n==18){c='6483B0'};if(n==19){c='848484'};if(n==20){c='FAC000'};if(n==21){c='FFD499'};if(n==22){c='F5DA81'};if(n==23){c='F0E68C'};if(n==24){c='859EFF'};if(n==25){c='FFEF61'};if(n==26){c='F08080'};if(n==27){c='B8BBDE'};if(n==28){c='C75872'};if(n==29){c='FF4500'};if(n==30){c='FF6347'};if(n==31){c='EB5E7C'};if(n==32){c='BCD4E3'};if(n==33){c='ADD8E6'};if(n==34){c='B4DBD4'};if(n==35){c='66A9BF'};if(n==36){c='4682B4'};if(n==37){c='BDB76B'};if(n==38){c='556B2F'};if(n==39){c='B07B61'};if(n==40){c='CDB7B5'};if(n==41){c='6C7B8B'};if(n==42){c='B0C4DE'};if(n==43){c='C3BED4'};if(n==44){c='E6E6FA'};if(n==45){c='66A9BF'};if(n==46){c='D8BFD8'};if(n==47){c='FFCCCC'};if(n==48){c='f2ecde'};var c = "#"+c;$(this).css({'background-color':c})})</script><style>#div0 table img{    width:6rem;    height:6rem;    border-radius:3rem;    padding:0.5rem;    margin:0;    max-width:8rem !important;}#div0 table td{     padding: 1rem 1.5rem 0 1.5rem;}#div0 table{    text-align:center;    color:#555;}#div0 .tag{display:inline-block;font-size:0.8rem !important;background:#fcfcf1 !important;color:#6483B0 !important;padding:0.4rem 0.8rem !important;margin:0 0.5rem !important;border-radius:9px;box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.3);}</style>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title></title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<script>    $('#subtitle').attr('data-typed-text','于我，于你，于世界，于未来')</script><h3 id="secret-society">secret society</h3><p>Timelapse 是一个以梦想、科学、乐趣为核心的社会组织。</p><p>我们追寻一个问题——How to live。</p><p>我们尊重思想，剥伪求真，崇尚多元，向往自由，剑指星空。</p><p>我们推崇自我管理，渴望破信息孤岛，打造知识共享新环境。</p><blockquote><p>品味云端之趣<br />求索万物之理<br />雕筑天国之桥<br />拨见来日之曦</p></blockquote><p>如果你也是风中追寻星空的旅者，请收下这封来自 Timelapse 的邀请函。</p><p>Our tale begins where stars exist.</p><h2 id="contact">contact</h2><p>创始人邮箱： messmess2019@outlook.com</p>]]></content>
     
   </entry>
   
@@ -229,22 +248,33 @@
   
   
   <entry>
-    <title></title>
+    <title>我们↘就↙是↖会员↗</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h3 id="名词解释">名词解释</h3><p>挂号 | 即有头衔不干活</p>]]></content>
+    <content type="html"><![CDATA[<divstyle="background:#effff9;border-radius:40px;width:90%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px"><h3 style="background:#FA8072;color:white;display:inline-block;font-size:0.9rem;padding:0.4rem 0.8rem;border-radius:8px;box-shadow: 2px 2px 6px 0 rgba(0, 0, 0, 0.3);"><strong>活动</strong> <spanstyle="font-weight:600;font-size:140%;color:transparent;background:transparent;background-clip:text;background-image: linear-gradient(to bottom right,pink, yellow);-webkit-background-clip:text;background-image: webkit-linear-gradient(to bottom right,pink, yellow);">会员明信片征集！</span></h3><p>戳<a href="https://docs.qq.com/doc/DZVJHZlhWWkZUVWlu"><spanstyle="font-weight:400;color:white !important;background:#00cc00;padding:0.4rem 1rem; display:inline-block;border-radius:20px; box-shadow:rgba(0, 0, 0,0.3) 4px 4px 6px;margin-right:0rem;margin-left:0.5rem;">会员信息注册表</span></a>将自己的卡片贴上明信片墙 <i class="iconfont icon-to-do"></i></p><p>##移动端以后再看吧 表格排版不好排</p></div><spanstyle="font-weight:400;color:white;background:#00cc00;padding:0.4rem 1rem; display:inline-block;border-radius:20px; box-shadow:rgba(0, 0, 0,0.3) 4px 4px 6px;margin-left:2rem;"><strong>示例</strong></span><div id="div0"style="background:#fffcf9;width:90%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px"><table><thead><tr class="header"><th>头像</th><th>自我介绍</th></tr></thead><tbody><tr class="odd"><td><img src="http://localhost:4000/img/default.png" /></td><td>一句话介绍</td></tr><tr class="even"><td><strong>名字</strong></td><td><span class="tag">#标签1 </span><span class="tag">#标签2</span>#标签3</td></tr><tr class="odd"><td>参考项</td><td><span style="font-size:0.9rem;"><spanstyle="padding-bottom:0px;box-shadow:#6b67e442 0px -8px 0px inset">个人信息</span>/姓名/昵称/性别/身高/体重/<spanstyle="padding-bottom:0px;box-shadow:#12fa4c1a 0px -10px 0px inset">生日</span>/血型/<br><spanstyle="padding-bottom:0px;box-shadow:#f3fa12ba 0px -6px 0px inset">坐标</span>/家乡/想去的地方/专业/职业/机构/学校/<br>自我介绍/<spanstyle="padding-bottom:0px;box-shadow:#5fd4f030 0px -6px 0px inset">一句话介绍</span>/性格/<spanstyle="padding-bottom:0px;box-shadow:#cffa564a 0px -6px 0px inset">兴趣爱好</span>/特长/<br>日常活跃时间/<spanstyle="padding-bottom:0px;box-shadow:#8c2b7824 0px -6px 0px inset">联系方式</span>/常驻网络平台/常用马甲/<br>人际关系/CP/人生经历介绍/任职经历/<br><spanstyle="padding-bottom:0px;box-shadow:#f4eae187 0px -6px 0px inset">个人理想</span>/入会宣言/座右铭/想法/标签/<br><spanstyle="padding-bottom:0px;box-shadow:#f6210a52 0px -8px 0px inset">人设</span>/本体/外表/武力值/技能/职业/其他设定……</span></td></tr><tr class="even"><td>生日</td><td></td></tr><tr class="odd"><td><span style="color:#333;">坐标</span></td><td></td></tr><tr class="even"><td>兴趣</td><td></td></tr><tr class="odd"><td>入会宣言</td><td></td></tr><tr class="even"><td>一句话介绍</td><td></td></tr><tr class="odd"><td>……</td><td></td></tr><tr class="even"><td><span style="color:#e5cd94f0">印象（他人评价）</span></td><td></td></tr><tr class="odd"><td><spanstyle="padding-bottom:0px;box-shadow:#f6210a29 0px -14px 0px inset;display:block;width:3rem;margin-left:2.5rem"><strong>人设</strong></span></td><td></td></tr></tbody></table><p><spanstyle="display:block;margin-right:-0.5rem;margin-bottom:-3rem;text-align:right;margin-top:2rem;">00/00/00</span></p></div><divstyle="background:#f4fcf9;width:90%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px"><p><strong>会员明信片墙</strong><br />自我介绍啥的一定要自己写☆</p></div><!--<h2 style='color:#000;padding-left:2rem;'>**职位介绍**</h2><span style="font-weight:400;color:white;background:#00cc00;padding:0.4rem 1rem; display:block;border-radius:20px; box-shadow:rgba(0, 0, 0,0.3) 4px 4px 6px;margin-right:4rem;margin-left:2rem;"></span><div style="display:inline-block;background:#fffff9;width:40%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px">  <i class="iconfont icon-a-IdeaTechnology"></i> **脑力部**    <i class="iconfont icon-Chat-User"></i> 构思人员    <i class="iconfont icon-admin"></i> 策划人员    <i class="iconfont icon-huiyishi"></i> 【议事厅成员】<i class="iconfont icon-a-ITziyuan2"></i> **信息与编辑部**    <i class="iconfont icon-resource"></i> 【资料库管理员】    <i class="iconfont icon-PeopleSearch-1"></i> 资料搜集与整理人员    <i class="iconfont icon-user-edit"></i> 编辑人员    <i class="iconfont icon-shenheyuan"></i> 审核人员    <i class="iconfont icon-jishuchuangxinhezhiliangfuwu"></i> **管理与技术部**    <i class="iconfont icon-user-cog"></i> 技术人员     <i class="iconfont icon-user-shield"></i> 管理人员  </div><div style="display:inline-block;background:#fffff9;width:40%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px">  <i class="iconfont icon-government"></i> **人事部**    <i class="iconfont icon-kehufuwuguanli"></i> 调解人员     <i class="iconfont icon-a-bianzu50"></i> 监督人员    <i class="iconfont icon-doors"></i> **人力部**     <i class="iconfont icon-a-grg-line-usersays"></i> 宣传人员    <i class="iconfont icon-user-headset"></i> 咨询人员    <i class="iconfont icon-user-friends"></i> 机动人员  <i class="iconfont icon-user-secret"></i> **编外**    <i class="iconfont icon-book-open-reader"></i> 学者     <i class="iconfont icon-student"></i> 学生     <i class="iconfont icon-laorenguanli"></i> 养老人员    </div><div style="background:#fffcf9;width:90%;padding:5%;margin:2rem;box-shadow:rgba(10,2,0,0.3) 3px 3px 8px 1px">||||---|---||![](http://localhost:4000/img/default.png)|<span style='color:#888;font-weight:700;'>一句话介绍<br>What's Up<br><br></span>流浪的，稻草人。  生活在空中，仰望天空。   |<span style='font-size:1.2rem'>    <i class="iconfont icon-jishuchuangxinhezhiliangfuwu"></i> <i class="iconfont icon-user-edit"></i> **橘子**</span>|#行动的矮子 #见识浅薄|<span style='font-size:0.9rem;color:#333;font-weight:600;'>生日</span>| 一个冬天<span style='font-size:0.9rem;color:#333;font-weight:600;'>坐标</span> | 不告诉你<span style='font-size:0.9rem;color:#333;font-weight:600;'>诞生地</span>| 安徽-皖西<span style='font-size:0.9rem;padding-bottom:0px;box-shadow:#f6210a29 0px -14px 0px inset;display:block;width:4.5rem;margin-left:3rem;color:#444;'>**兴趣爱好**</span>| <span style='color:#5d6876f5'><span class='tag'><span class='tag'><span class='tag'><span class='tag'><span class='tag'>探索世界规律</span><br>思考，阅读，</span><br>看影视作品和动漫，旅游</span><br>绘画和手工 </span><br>跑步，羽毛球</span></span><span style='font-size:0.9rem;display:block;width:10rem;color:#555;font-weight:600;'><s>入会宣言</s> **创会初因**</span> | 让生活变得更快乐<span style='font-size:0.9rem;color:#444;font-weight:600;'>技能</span>| 0<span style='font-size:0.9rem;color:#444;font-weight:600;'>专业/领域</span> | 物理学<span style='display:block;margin-right:-0.5rem;margin-bottom:-3rem;text-align:right;margin-top:2rem;'>2023/7/28</span></div>--><script>$('.tag').each(function(){var n = Math.round(Math.random()*(48-1)+1);if(n==1){c='FA8072'};if(n==2){c='A7D6F1'};if(n==3){c='F08080'};if(n==4){c='5F9EA0'};if(n==5){c='D495EC'};if(n==6){c='FF7F50'};if(n==7){c='B0E0E6'};if(n==8){c='FFD499'};if(n==9){c='8FBC8F'};if(n==10){c='A2DA65'};if(n==11){c='9BCD9B'};if(n==12){c='66CDAA'};if(n==13){c='F5DA81'};if(n==14){c='20B2AA'};if(n==15){c='FFC1E0'};if(n==16){c='ACE1AF'};if(n==17){c='4682B4'};if(n==18){c='6483B0'};if(n==19){c='848484'};if(n==20){c='FAC000'};if(n==21){c='FFD499'};if(n==22){c='F5DA81'};if(n==23){c='F0E68C'};if(n==24){c='859EFF'};if(n==25){c='FFEF61'};if(n==26){c='F08080'};if(n==27){c='B8BBDE'};if(n==28){c='C75872'};if(n==29){c='FF4500'};if(n==30){c='FF6347'};if(n==31){c='EB5E7C'};if(n==32){c='BCD4E3'};if(n==33){c='ADD8E6'};if(n==34){c='B4DBD4'};if(n==35){c='66A9BF'};if(n==36){c='4682B4'};if(n==37){c='BDB76B'};if(n==38){c='556B2F'};if(n==39){c='B07B61'};if(n==40){c='CDB7B5'};if(n==41){c='6C7B8B'};if(n==42){c='B0C4DE'};if(n==43){c='C3BED4'};if(n==44){c='E6E6FA'};if(n==45){c='66A9BF'};if(n==46){c='D8BFD8'};if(n==47){c='FFCCCC'};if(n==48){c='f2ecde'};var c = "#"+c;$(this).css({'background-color':c})})</script><style>#div0 table img{    width:6rem;    height:6rem;    border-radius:3rem;    padding:0.5rem;    margin:0;    max-width:8rem !important;}#div0 table td{     padding: 1rem 1.5rem 0 1.5rem;}#div0 table{    text-align:center;    color:#555;}#div0 .tag{display:inline-block;font-size:0.8rem !important;background:#fcfcf1 !important;color:#6483B0 !important;padding:0.4rem 0.8rem !important;margin:0 0.5rem !important;border-radius:9px;box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.3);}</style>]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>橘迹</title>
+    <title>📜 公告</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<!--<script>accesscode = prompt("橘子喜欢开玩笑吗？（yes/no）（注：请不要太在意此问题的答案）","");if (accesscode != "no"){alert("You are not allowed to access this page.");window.location.href='https://utopiapublishinghouse.github.io/404';}else{//window.location.href='';alert("hello!");}</script>--><style>    #vcomments{    }    .vwrap{        background:#fff;        box-shadow:rgba(40,20,10,0.3) 5px 5px 10px 0;    }    .vempty{        display:none !important    }</style><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments1"></div><script> new Valine({   el: '#vcomments1',   appId: 'y6DDXiU4VwqXv54GWTFJs66H-gzGzoHsz',   appKey: 'AppKeyzgTxGJftSg4XAGHljwq8dybb',  avatar: 'retro',  placeholder: '来呀快来交流啊~注意：名字里请勿带 juice',  emojiCDN: 'https://timelapse0.github.io/emoticon/' ,  emojiMaps: {  'allright':'a/a-allright.png',  'catdog':'a/a-catdog.png',  'confused':'a/a-confused.png',  'emm':'a/a-emm.png',  'huh':'a/a-huh.png',  'tears':'a/a-tears.png',  'water-mouth':'a/a-water-mouth.png',  'yjsy':'a/a-yjsy.png'  }  }) </script>]]></content>
+    <content type="html"><![CDATA[<ul><li>【Timelapse 介绍】文件会不定期更新</li></ul><h2 id="docs">docs</h2><h3 id="绘梦计划">🚩绘梦计划</h3><ul><li>欢迎参与组织网站的编辑与排版。所有对组织网站有贡献者会在贡献榜里展示</li></ul><h3 id="入会填写">📃 入会填写</h3><h4 id="申请表主要是自我介绍">申请表（主要是自我介绍）</h4><ul><li>新成员和已加入一段时间的会员都可以投稿</li><li>自我介绍的内容可以未来放维基里，也可以保密作档案</li></ul><p>申请表如下，如有修改意见欢迎提出。 <ahref="https://docs.qq.com/doc/DZWNCU0FrWm9vWXFN">【腾讯文档】申请表格式</a></p><h4 id="section"></h4><p><ahref="https://docs.qq.com/form/page/DZXFQdEllaEdYak5Y">【腾讯文档】成员意向及信息收集表</a></p><p><ahref="https://docs.qq.com/form/page/DZXJ4VkxJTVprRG9q">【腾讯文档】组织奖励意向统计</a></p><p>包括但不限于组织构想、兴趣、职务、回馈等等方面。</p><h3 id="各项征集">各项征集</h3><p><ahref="https://docs.qq.com/form/page/DZXhnenRLTWtSdFNZ">【腾讯文档】网页外表倾向收集表</a></p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<script>    $('#subtitle').attr('data-typed-text','于我，于你，于世界，于未来')</script><h3 id="secret-society">secret society</h3><p>Timelapse 是一个以梦想、科学、乐趣为核心的社会组织。</p><p>我们追寻一个问题——How to live。</p><p>我们尊重思想，剥伪求真，崇尚多元，向往自由，剑指星空。</p><p>我们推崇自我管理，渴望破信息孤岛，打造知识共享新环境。</p><blockquote><p>品味云端之趣<br />求索万物之理<br />雕筑天国之桥<br />拨见来日之曦</p></blockquote><p>如果你也是风中追寻星空的旅者，请收下这封来自 Timelapse 的邀请函。</p><p>Our tale begins where stars exist.</p><h2 id="contact">contact</h2><p>创始人邮箱： messmess2019@outlook.com</p>]]></content>
     
   </entry>
   
@@ -262,11 +292,33 @@
   
   
   <entry>
+    <title></title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[*{    -webkit-tap-highlight-color:transparent;    outline:none;}.page-content a{    color:#6483B0 !important;}/*内链图标*/.page-content p a[href]::after{    content:'  \e630'}/*外联图标*/.page-content p a[href*=http]::after{    content:'  \e61d'}/*docs链接图标*/.page-content p a[href*='/docs/']::after{    content:''}.page-content p a[href*='/docs/']::before{    content:'\e601  '}/*收集表链接图标*/.page-content p a[href*='/docs/form']::after{    content:''}.page-content p a[href*='/docs/form']::before{    content:'\e62a  '}#container{    background:rgba(0,0,0,0.6);opacity:0;    display: flex;    position:fixed;    height: 100vh;    width: 100vw;        left: 0;    top: 0;    z-index:-1;    transition: 0.6s;}[name="link"]{  display:none !important;}.v[data-class="v"] .vwrap .vheader .vinput[name="nick"]{    width:33.33% !important;}.v[data-class="v"] .vwrap .vheader .vinput[name="mail"]{    width:66.66% !important;}.v[data-class="v"] .vwrap .vemojis i{    width:170px !important}.v[data-class=v] .vemoji,.v[data-class=v] .emoji {    width:150px !important;    height:150px !important;}.v[data-class="v"] .vcards .vcard .vh .vmeta .vat{    color:#BCD4E3 !important;}.vpower{    display: none;}]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>地下室</title>
     <link href="/"/>
     <url>/</url>
     
     <content type="html"><![CDATA[<h4 id="项目申请">🥪 项目申请</h4><p>（待更新）</p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<h3 id="名词解释">名词解释</h3><p>挂号 | 即有头衔不干活</p>]]></content>
     
   </entry>
   
@@ -284,55 +336,11 @@
   
   
   <entry>
-    <title></title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[*{    -webkit-tap-highlight-color:transparent;    outline:none;}.page-content a{    color:#6483B0 !important;}/*内链图标*/.page-content p a[href]::after{    content:'  \e630'}/*外联图标*/.page-content p a[href*=http]::after{    content:'  \e61d'}/*docs链接图标*/.page-content p a[href*='/docs/']::after{    content:''}.page-content p a[href*='/docs/']::before{    content:'\e601  '}/*收集表链接图标*/.page-content p a[href*='/docs/form']::after{    content:''}.page-content p a[href*='/docs/form']::before{    content:'\e62a  '}#container{    background:rgba(0,0,0,0.6);opacity:0;    display: flex;    position:fixed;    height: 100vh;    width: 100vw;        left: 0;    top: 0;    z-index:-1;    transition: 0.6s;}[name="link"]{  display:none !important;}.v[data-class="v"] .vwrap .vheader .vinput[name="nick"]{    width:33.33% !important;}.v[data-class="v"] .vwrap .vheader .vinput[name="mail"]{    width:66.66% !important;}.v[data-class="v"] .vwrap .vemojis i{    width:170px !important}.v[data-class=v] .vemoji,.v[data-class=v] .emoji {    width:150px !important;    height:150px !important;}.v[data-class="v"] .vcards .vcard .vh .vmeta .vat{    color:#BCD4E3 !important;}.vpower{    display: none;}]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>邮箱</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<style>    #vcomments{    background:lightyellow !important;    color:#9AA6C1 !important;    border-radius:4px !important;    border:none;    box-shadow:rgba(255,245,243,0.5) 2px 2px 10px !important;    }    .vempty{        display:none !important    }    #vcomments > div.vcount{        display:none !important}#vcomments > div.vcards{        display:none !important}</style><ul><li>留言不会在本网页显示。</li><li>后台会接收留言。</li></ul><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '人来人往，但，温柔的陌生人让我们停下脚步。  '  }) </script>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>详细介绍</title>
     <link href="/"/>
     <url>/</url>
     
     <content type="html"><![CDATA[<h2 id="萌新指北">萌新指北</h2><p>（供新成员参考，有待更新）</p><h2 id="组织构成">组织构成</h2><pre><code class=" mermaid">graph RL先锋--救世会--&gt;Timelapse 科学--wonder --&gt;Timelapse乐趣--云品--&gt;Timelapse</code></pre><h2 id="项目">项目</h2><p>详情见<a href="/docs/project">项目</a></p><h2 id="网页浏览">网页浏览</h2><h5 id="快捷键">快捷键</h5><p>/c 自定义（未设置） /m 打开世界观地图 /v 快速通道</p><h2 id="写作">写作</h2><p>详情见<a href="/docs/writing">写作</a></p>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>橘迹</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<!--<script>accesscode = prompt("橘子喜欢开玩笑吗？（yes/no）（注：请不要太在意此问题的答案）","");if (accesscode != "no"){alert("You are not allowed to access this page.");window.location.href='https://utopiapublishinghouse.github.io/404';}else{//window.location.href='';alert("hello!");}</script>--><style>    #vcomments{    }    .vwrap{        background:#fff;        box-shadow:rgba(40,20,10,0.3) 5px 5px 10px 0;    }    .vempty{        display:none !important    }</style><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '来呀快来交流啊~注意：名字里请勿带 juice',  emojiCDN: 'https://timelapse0.github.io/emoticon/' ,  emojiMaps: {  'allright':'a/a-allright.png',  'catdog':'a/a-catdog.png',  'confused':'a/a-confused.png',  'emm':'a/a-emm.png',  'huh':'a/a-huh.png',  'tears':'a/a-tears.png',  'water-mouth':'a/a-water-mouth.png',  'yjsy':'a/a-yjsy.png'  }  }) </script>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>圆桌</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<p>鼓励平等友善的评论。</p><p>（分类：issues/……）</p><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '格式：【分类】正文'  }) </script>]]></content>
     
   </entry>
   
@@ -350,11 +358,33 @@
   
   
   <entry>
-    <title>项目进度</title>
+    <title>圆桌</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<style>.row{margin-left:auto;margin-right:auto;margin-bottom:20px;}.row:after{content:"";display:table;clear:both}.row .col{float:left;-webkit-box-sizing:border-box;box-sizing:border-box;padding:0 .75rem;min-height:1px}.row .col.s12{width:100%;margin-left:auto;left:auto;right:auto}.row .col.m6{width:50%;margin-left:auto;left:auto;right:auto}.row .col.l6{width:50%;margin-left:auto;left:auto;right:auto}.my-skills{    margin-top: 2rem;}.title,.my-skills .title{    font-size: 2rem;    margin-bottom: 2.25rem;    }.my-skills .skillbar {    width: 360px;    position: relative;    display: block;    margin: 15px auto;    background: #eee;    height: 30px;    border-radius: 35px;    -moz-border-radius: 35px;    -webkit-border-radius: 35px;    -webkit-transition: 0.4s linear;    -moz-transition: 0.4s linear;    -o-transition: 0.4s linear;    transition: 0.4s linear;    -webkit-transition-property: width, background-color;    -moz-transition-property: width, background-color;    -o-transition-property: width, background-color;    transition-property: width, background-color;}.skillbar .skillbar-title {    position: absolute;    top: 0;    left: 0;    width: 110px;    font-size: 0.9rem;    color: #ffffff;    border-radius: 35px;    -webkit-border-radius: 35px;    -moz-border-radius: 35px;}.skillbar .skillbar-title span {    display: block;    background: rgba(0, 0, 0, 0.15);    padding: 0 20px;    width: fit-content;    height: 30px;    line-height: 30px;    border-radius: 35px;    -webkit-border-radius: 35px;    -moz-border-radius: 35px;}.skillbar .skill-bar-percent {    position: absolute;    right: 10px;    top: 0;    font-size: 12px;    height: 30px;    line-height: 30px;    color: #ffffff;    color: rgba(0, 0, 0, 0.5);}.container>.row>.col{  display: none;}</style><div class="my-skills"><div class="title center-align" data-aos="zoom-in-up"><i class="fas fa-glass-whiskey"></i>  项目进度</div><div class="row"></div></div><script>var mySkills = [  {'title': '',    'background': 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)',    'percent': '0%'},  {'title': '',    'background': 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)',    'percent': '0%'},  {'title': 'Cloud Petting',    'background': 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)',    'percent': '0%'},  {'title': 'wonder',    'background': 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)',    'percent': '0%'},  {'title': 'DBG',    'background': 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)',    'percent': '33%'}];for(i = 0; i < mySkills.length; i++){$('.row').append('<div class="col s12 m6 l6"><div class="skillbar"><div class=\"skillbar-title\" style=\"background:' +mySkills[i].background +';width:' +mySkills[i].percent +'\"><span>'+mySkills[i].title+'</span></div><div class=\"skill-bar-percent\">'+mySkills[i].percent+'</div></div></div>')}</script>]]></content>
+    <content type="html"><![CDATA[<p>鼓励平等友善的评论。</p><p>（分类：issues/……）</p><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '格式：【分类】正文'  }) </script>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>时光邮箱</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<style>    #vcomments{    background:lightyellow !important;    color:#9AA6C1 !important;    border-radius:4px !important;    border:none;    box-shadow:rgba(255,245,243,0.5) 2px 2px 10px !important;    }    .vempty{        display:none !important    }    #vcomments > div.vcount{        display:none !important}#vcomments > div.vcards{        display:none !important}</style><p>本页提供时空列车的寄信服务。欢迎您写信寄给未来的自己。</p><ul><li>留言不会在本网页显示。</li><li>后台会接收留言，请注明回信时间，我们会按时回信给未来的您。</li></ul><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '人来人往，但，温柔的陌生人让我们停下脚步。  '  }) </script>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>橘迹</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<!--<script>accesscode = prompt("橘子喜欢开玩笑吗？（yes/no）（注：请不要太在意此问题的答案）","");if (accesscode != "no"){alert("You are not allowed to access this page.");window.location.href='https://utopiapublishinghouse.github.io/404';}else{//window.location.href='';alert("hello!");}</script>--><style>    #vcomments{    }    .vwrap{        background:#fff;        box-shadow:rgba(40,20,10,0.3) 5px 5px 10px 0;    }    .vempty{        display:none !important    }</style><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments1"></div><script> new Valine({   el: '#vcomments1',   appId: 'y6DDXiU4VwqXv54GWTFJs66H-gzGzoHsz',   appKey: 'AppKeyzgTxGJftSg4XAGHljwq8dybb',  avatar: 'retro',  placeholder: '来呀快来交流啊~注意：名字里请勿带 juice',  emojiCDN: 'https://timelapse0.github.io/emoticon/' ,  emojiMaps: {  'allright':'a/a-allright.png',  'catdog':'a/a-catdog.png',  'confused':'a/a-confused.png',  'emm':'a/a-emm.png',  'huh':'a/a-huh.png',  'tears':'a/a-tears.png',  'water-mouth':'a/a-water-mouth.png',  'yjsy':'a/a-yjsy.png'  }  }) </script>]]></content>
     
   </entry>
   
@@ -366,6 +396,39 @@
     <url>/</url>
     
     <content type="html"><![CDATA[<p>珍视建议，喝彩想法，这里是创意商场！</p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>橘迹</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<!--<script>accesscode = prompt("橘子喜欢开玩笑吗？（yes/no）（注：请不要太在意此问题的答案）","");if (accesscode != "no"){alert("You are not allowed to access this page.");window.location.href='https://utopiapublishinghouse.github.io/404';}else{//window.location.href='';alert("hello!");}</script>--><style>    #vcomments{    }    .vwrap{        background:#fff;        box-shadow:rgba(40,20,10,0.3) 5px 5px 10px 0;    }    .vempty{        display:none !important    }</style><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: '来呀快来交流啊~注意：名字里请勿带 juice',  emojiCDN: 'https://timelapse0.github.io/emoticon/' ,  emojiMaps: {  'allright':'a/a-allright.png',  'catdog':'a/a-catdog.png',  'confused':'a/a-confused.png',  'emm':'a/a-emm.png',  'huh':'a/a-huh.png',  'tears':'a/a-tears.png',  'water-mouth':'a/a-water-mouth.png',  'yjsy':'a/a-yjsy.png'  }  }) </script>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>征稿</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p><spanstyle="font-weight:400;color:white;background:#00cc00;padding:0.4rem 1rem; display:inline-block;border-radius:20px; box-shadow:rgba(0, 0, 0,0.3) 4px 4px 6px;margin-right:0.5rem;margin-left:2rem;"><strong>征集中</strong></span></p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>项目进度</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<style>.row{margin-left:auto;margin-right:auto;margin-bottom:20px;}.row:after{content:"";display:table;clear:both}.row .col{float:left;-webkit-box-sizing:border-box;box-sizing:border-box;padding:0 .75rem;min-height:1px}.row .col.s12{width:100%;margin-left:auto;left:auto;right:auto}.row .col.m6{width:50%;margin-left:auto;left:auto;right:auto}.row .col.l6{width:50%;margin-left:auto;left:auto;right:auto}.my-skills{    margin-top: 2rem;}.title,.my-skills .title{    font-size: 2rem;    margin-bottom: 2.25rem;    }.my-skills .skillbar {    width: 360px;    position: relative;    display: block;    margin: 15px auto;    background: #eee;    height: 30px;    border-radius: 35px;    -moz-border-radius: 35px;    -webkit-border-radius: 35px;    -webkit-transition: 0.4s linear;    -moz-transition: 0.4s linear;    -o-transition: 0.4s linear;    transition: 0.4s linear;    -webkit-transition-property: width, background-color;    -moz-transition-property: width, background-color;    -o-transition-property: width, background-color;    transition-property: width, background-color;}.skillbar .skillbar-title {    position: absolute;    top: 0;    left: 0;    width: 110px;    font-size: 0.9rem;    color: #ffffff;    border-radius: 35px;    -webkit-border-radius: 35px;    -moz-border-radius: 35px;}.skillbar .skillbar-title span {    display: block;    background: rgba(0, 0, 0, 0.15);    padding: 0 20px;    width: fit-content;    height: 30px;    line-height: 30px;    border-radius: 35px;    -webkit-border-radius: 35px;    -moz-border-radius: 35px;}.skillbar .skill-bar-percent {    position: absolute;    right: 10px;    top: 0;    font-size: 12px;    height: 30px;    line-height: 30px;    color: #ffffff;    color: rgba(0, 0, 0, 0.5);}.container>.row>.col{  display: none;}</style><div class="my-skills"><div class="title center-align" data-aos="zoom-in-up"><i class="fas fa-glass-whiskey"></i>  项目进度</div><div class="row"></div></div><script>var mySkills = [  {'title': '',    'background': 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)',    'percent': '0%'},  {'title': '',    'background': 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)',    'percent': '0%'},  {'title': 'Cloud Petting',    'background': 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)',    'percent': '0%'},  {'title': 'wonder',    'background': 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)',    'percent': '0%'},  {'title': 'DBG',    'background': 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)',    'percent': '33%'}];for(i = 0; i < mySkills.length; i++){$('.row').append('<div class="col s12 m6 l6"><div class="skillbar"><div class=\"skillbar-title\" style=\"background:' +mySkills[i].background +';width:' +mySkills[i].percent +'\"><span>'+mySkills[i].title+'</span></div><div class=\"skill-bar-percent\">'+mySkills[i].percent+'</div></div></div>')}</script>]]></content>
     
   </entry>
   
@@ -387,7 +450,7 @@
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h2 id="语法支持">语法支持</h2><ul><li>markdown</li><li>timemark</li></ul><h1 id="笔记体系介绍"><a href="/writing/design/">笔记体系介绍</a></h1>]]></content>
+    <content type="html"><![CDATA[<h4 id="追求">追求</h4><p>趣味 情调 随心写作 自由表达</p><h4 id="要求">要求</h4><p>确保无论使用什么社交平台的人都可以云养</p><h4 id="云养项目计划内容">云养项目计划内容</h4><h5 id="每日云养">每日云养</h5><ul><li>猫粮领取</li><li>线上养成游戏</li><li>每日喂猫、撸猫 需要实现的功能： 猫咪迎接的状态随机在不同位置用不同力度抚摸猫咪会有相应反应（live2d已经实现了一部分） 喂食给猫咪投喂猫咪会有随机的反应 成长 猫咪会随培养时间长大 娱乐猫咪之间可以互动、游戏、竞争 生病（？）</li></ul><h6 id="原稿">原稿</h6><p>比较多变性格 可培养 可竞争</p><p>还有防御值 运气值 随机匹配 赢了成长or有奖</p><p>投喂它也有对应的心情比如每次我去看我的云养，它以不同的性格迎接我甚至消失，出现情况随机投喂它也有对应的心情</p><h5id="猫图分享圈分享视频动图表情包养猫心得猫图">猫图分享圈（分享视频，动图，表情包，养猫心得，猫图）</h5><ul><li>发图求赞</li><li>看图点赞</li></ul><h5id="线上线下合力用户于线上与线下猫互动">线上线下合力，用户于线上与线下猫互动</h5><h5 id="猫历上面展示每周总结">猫历上面展示每周总结</h5><h5 id="文章">文章</h5><h6 id="打击">打击</h6><p>标题党 图片党</p>]]></content>
     
   </entry>
   
@@ -398,29 +461,7 @@
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<h4 id="追求">追求</h4><p>趣味 情调 随心写作 自由表达</p><h4 id="要求">要求</h4><p>确保无论使用什么社交平台的人都可以云养</p><h4 id="云养项目计划内容">云养项目计划内容</h4><h5 id="每日云养">每日云养</h5><ul><li>猫粮领取</li><li>线上养成游戏</li><li>每日喂猫、撸猫 需要实现的功能： 猫咪迎接的状态随机在不同位置用不同力度抚摸猫咪会有相应反应（live2d已经实现了一部分） 喂食给猫咪投喂猫咪会有随机的反应 成长 猫咪会随培养时间长大 娱乐猫咪之间可以互动、游戏、竞争 生病（？）</li></ul><h6 id="原稿">原稿</h6><p>比较多变性格 可培养 可竞争</p><p>还有防御值 运气值 随机匹配 赢了成长or有奖</p><p>投喂它也有对应的心情比如每次我去看我的云养，它以不同的性格迎接我甚至消失，出现情况随机投喂它也有对应的心情</p><h5id="猫图分享圈分享视频动图表情包养猫心得猫图">猫图分享圈（分享视频，动图，表情包，养猫心得，猫图）</h5><ul><li>发图求赞</li><li>看图点赞</li></ul><h5id="线上线下合力用户于线上与线下猫互动">线上线下合力，用户于线上与线下猫互动</h5><h5 id="猫历上面展示每周总结">猫历上面展示每周总结</h5><h5 id="文章">文章</h5><h6 id="打击">打击</h6><p>标题党 图片党</p>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>征稿</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<p><spanstyle="font-weight:400;color:white;background:#00cc00;padding:0.4rem 1rem; display:inline-block;border-radius:20px; box-shadow:rgba(0, 0, 0,0.3) 4px 4px 6px;margin-right:0.5rem;margin-left:2rem;"><strong>征集中</strong></span></p>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>项目</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<h1 id="朝暮计划">朝暮计划</h1><h2 id="日常打卡">日常打卡</h2><h3 id="工作学习卡">【工作学习卡】</h3><h4 id="计分打卡成绩时长天数稳定度">计分：打卡成绩=时长×天数×稳定度</h4><ul><li>时长：以 h 计，0-24h，每小时0.1分</li><li>天数：无上限</li><li>稳定度：0-1，每三日更新一次。<br /></li><li>一节气总额 ≈ 2.4×15×1=36</li></ul><h4 id="兑换">兑换</h4><p>结账：每过一节气结账一次，少于三日的不计。</p><ul><li>工作学习分未达 100 分，要打兴趣愿望卡，每季度需预支 225 分；</li><li>工作学习分达 100 分，可免费打兴趣愿望卡。</li></ul><h3 id="兴趣愿望卡">【兴趣愿望卡】</h3><h4 id="计分">计分</h4><ul><li>时长：以 h 计，0-24h，每小时1分</li><li>天数：无上限</li><li>稳定度：0-1，每三日更新一次。</li><li>一节气总额 ≈ 24×15×1=360</li></ul><h4 id="兑换-1">兑换</h4><p>结账：每过一节气结账一次，少于三日的不计。</p><h2 id="成就达成">成就达成</h2><h3 id="计分-1">计分</h3><ul><li>+1--取得新成就的状态</li><li>-1--荒废的状态</li><li>*--中间态</li></ul><h2 id="奖励">奖励</h2><p>最终得分 = 日常打卡（50%）+成就达成（50%）</p><section id="a-trait-test" style="display:none"><h1>A trait Test</h1><h4 id="不是隐私的原因">不是隐私的原因</h4><ul><li>学校某种强制措施间接导致作业公布</li><li>……</li></ul></section>]]></content>
+    <content type="html"><![CDATA[<h1 id="奖项设置">奖项设置</h1><p>奖励：果酱</p><section id="a-trait-test" style="display:none"><h1>A trait Test</h1><h4 id="不是隐私的原因">不是隐私的原因</h4><ul><li>学校某种强制措施间接导致作业公布</li><li>……</li></ul></section>]]></content>
     
   </entry>
   
@@ -449,11 +490,22 @@
   
   
   <entry>
-    <title>梦境故事</title>
+    <title></title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="语法支持">语法支持</h2><ul><li>markdown</li><li>timemark</li></ul><h1 id="笔记体系介绍"><a href="/writing/design/">笔记体系介绍</a></h1>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>许愿池</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p>任何人都可以去许愿池投币许愿。可通过扫下方二维码投币。投一元钱将助您的愿望实现。</p>]]></content>
     
   </entry>
   
@@ -465,6 +517,28 @@
     <url>/</url>
     
     <content type="html"><![CDATA[]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>梦境故事</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>失物招领</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p>或有形，或无形；或抽象，或具体；或丢弃，或消失，或遗忘，只要是你失去的东西，都是失物。</p><script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id="vcomments"></div><script> new Valine({   el: '#vcomments',   appId: 'dX4OrDSvWIIAgtrtPuKtuAcN-gzGzoHsz',   appKey: 'EYcnFYanjdU56agYrPwGtul3' ,  avatar: 'retro',  placeholder: ''  }) </script>]]></content>
     
   </entry>
   
