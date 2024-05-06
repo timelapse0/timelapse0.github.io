@@ -128,7 +128,7 @@
               <a class="nav-link dropdown-toggle" target="_self" href="javascript:;" role="button"
                  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <i class="iconfont icon-project"></i>
-                <span>项目</span>
+                <span>地球 Online 攻略</span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 
@@ -138,6 +138,14 @@
                   <a class="dropdown-item" href="/Daily-Progress.html">
                     <i class="iconfont icon-jihua"></i>
                     <span>朝暮计划</span>
+                  </a>
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/%E5%BF%83%E6%83%85%E6%89%93%E5%8D%A1.html">
+                    <i class="iconfont icon-jihua"></i>
+                    <span>心情打卡</span>
                   </a>
                 
                   
@@ -176,23 +184,23 @@
           
           
           
-            <li class="nav-item">
-              <a class="nav-link" href="/Wonder/">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" target="_self" href="javascript:;" role="button"
+                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <i class="iconfont icon-doors"></i>
                 <span>Wonder Project</span>
               </a>
-            </li>
-          
-        
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-link" href="/NowHere/index.html">
-                <i class="iconfont icon-opinion"></i>
-                <span>NowHere</span>
-              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/NowHere/index.html">
+                    <i class="iconfont icon-opinion"></i>
+                    <span>NowHere</span>
+                  </a>
+                
+              </div>
             </li>
           
         
@@ -319,6 +327,14 @@
                 <span>花园建设</span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  
+                  
+                  
+                  <a class="dropdown-item" href="/docs">
+                    <i class="iconfont icon-extension"></i>
+                    <span>文档</span>
+                  </a>
                 
                   
                   
@@ -571,19 +587,6 @@ new Valine({
   placeholder: '快来和大家打成一片！'
   }) 
 </script> 
-
-<script>
-$(function() {
-    $('body').keyup(function() {
-        if (document.activeElement.localName != "input" && document.activeElement.localName != "select" ) {
-            var value = event.keyCode;
-                if (value == 86) {
-                   window.location.href ='/basement/'
-                };
-        }
-    });
-});
-</script>
 
 <script>
 $('.page-content p a').addClass('iconfont')
